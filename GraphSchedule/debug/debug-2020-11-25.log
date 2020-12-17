@@ -1,0 +1,1261 @@
+[2020-11-25 10:42:35] -- [DEBUG]: [com.dfundata.fund.schedule.ScheduleApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-11-25 10:42:36] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-11-25 10:42:36] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-11-25 10:42:37] -- [DEBUG]: [io.sentry.config.Lookup] -- Sentry configuration file not found in filesystem or classpath: 'sentry.properties'.
+[2020-11-25 10:42:37] -- [DEBUG]: [io.sentry.DefaultSentryClientFactory] -- Using an HTTPS connection to Sentry.
+[2020-11-25 10:42:37] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.HttpEventBuilderHelper@3f63a513' to the list of builder helpers.
+[2020-11-25 10:42:37] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.ContextBuilderHelper@5d152bcd' to the list of builder helpers.
+[2020-11-25 10:42:37] -- [DEBUG]: [io.sentry.SentryClientFactory] -- Configuring uncaught exception handler.
+[2020-11-25 10:47:01] -- [DEBUG]: [io.sentry.event.EventBuilder$HostnameCache] -- Updating the hostname cache
+[2020-11-25 10:47:59] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Gracefully shutting down Sentry async threads.
+[2020-11-25 10:48:00] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Shutdown finished.
+[2020-11-25 10:48:05] -- [DEBUG]: [com.dfundata.fund.schedule.ScheduleApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-11-25 10:48:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-11-25 10:48:06] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-11-25 10:48:07] -- [DEBUG]: [io.sentry.config.Lookup] -- Sentry configuration file not found in filesystem or classpath: 'sentry.properties'.
+[2020-11-25 10:48:07] -- [DEBUG]: [io.sentry.DefaultSentryClientFactory] -- Using an HTTPS connection to Sentry.
+[2020-11-25 10:48:07] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.HttpEventBuilderHelper@2b08772d' to the list of builder helpers.
+[2020-11-25 10:48:07] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.ContextBuilderHelper@159424e2' to the list of builder helpers.
+[2020-11-25 10:48:07] -- [DEBUG]: [io.sentry.SentryClientFactory] -- Configuring uncaught exception handler.
+[2020-11-25 10:58:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- HikariPool-1 - configuration:
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- allowPoolSuspension.............false
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- autoCommit......................true
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- catalog.........................none
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- connectionInitSql...............none
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- connectionTestQuery.............none
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- connectionTimeout...............30000
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSource......................none
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSourceClassName.............none
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSourceJNDI..................none
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSourceProperties............{password=<masked>}
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- driverClassName................."com.mysql.cj.jdbc.Driver"
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- healthCheckProperties...........{}
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- healthCheckRegistry.............none
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- idleTimeout.....................600000
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- initializationFailTimeout.......1
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- isolateInternalQueries..........false
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- jdbcUrl.........................jdbc:mysql://localhost:3306/cos?serverTimezone=GMT%2B8&useUnicode=true&characterEncoding=utf8&useSSL=false&allowMultiQueries=true&autoReconnet=true&allowPublicKeyRetrieval=true
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- leakDetectionThreshold..........0
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- maxLifetime.....................1800000
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- maximumPoolSize.................10
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- metricRegistry..................none
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- metricsTrackerFactory...........none
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- minimumIdle.....................10
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- password........................<masked>
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- poolName........................"HikariPool-1"
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- readOnly........................false
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- registerMbeans..................false
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- scheduledExecutor...............none
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- schema..........................none
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- threadFactory...................internal
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- transactionIsolation............default
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- username........................"root"
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- validationTimeout...............5000
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@16b31704
+[2020-11-25 10:58:43] -- [DEBUG]: [com.dfundata.fund.schedule.mapper.AlgoMapper.updByAlgoId] -- ==>  Preparing: update algorithm_baseinfo set algorithm_name=?, algorithm_vision=?, algorithm_type = ? apply_client_scope = ? algorithm_description = ? WHERE algorithm_id =? 
+[2020-11-25 10:58:43] -- [DEBUG]: [io.sentry.event.EventBuilder$HostnameCache] -- Updating the hostname cache
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@16ad8dd9
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@623602c5
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3552a958
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@37ceb116
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2a7c06e3
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@589fa09e
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@78bcdaed
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5e43a802
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1bf03f48
+[2020-11-25 10:58:43] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 10:59:06] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Gracefully shutting down Sentry async threads.
+[2020-11-25 10:59:06] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Shutdown finished.
+[2020-11-25 10:59:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 10:59:06] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@16b31704: (connection evicted)
+[2020-11-25 10:59:06] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@16ad8dd9: (connection evicted)
+[2020-11-25 10:59:06] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@623602c5: (connection evicted)
+[2020-11-25 10:59:06] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3552a958: (connection evicted)
+[2020-11-25 10:59:06] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@37ceb116: (connection evicted)
+[2020-11-25 10:59:06] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2a7c06e3: (connection evicted)
+[2020-11-25 10:59:06] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@589fa09e: (connection evicted)
+[2020-11-25 10:59:06] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@78bcdaed: (connection evicted)
+[2020-11-25 10:59:06] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5e43a802: (connection evicted)
+[2020-11-25 10:59:06] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1bf03f48: (connection evicted)
+[2020-11-25 10:59:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+[2020-11-25 10:59:09] -- [DEBUG]: [com.dfundata.fund.schedule.ScheduleApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-11-25 10:59:10] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-11-25 10:59:10] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-11-25 10:59:11] -- [DEBUG]: [io.sentry.config.Lookup] -- Sentry configuration file not found in filesystem or classpath: 'sentry.properties'.
+[2020-11-25 10:59:11] -- [DEBUG]: [io.sentry.DefaultSentryClientFactory] -- Using an HTTPS connection to Sentry.
+[2020-11-25 10:59:11] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.HttpEventBuilderHelper@5f0a2638' to the list of builder helpers.
+[2020-11-25 10:59:11] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.ContextBuilderHelper@2c26ba07' to the list of builder helpers.
+[2020-11-25 10:59:11] -- [DEBUG]: [io.sentry.SentryClientFactory] -- Configuring uncaught exception handler.
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- HikariPool-1 - configuration:
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- allowPoolSuspension.............false
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- autoCommit......................true
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- catalog.........................none
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- connectionInitSql...............none
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- connectionTestQuery.............none
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- connectionTimeout...............30000
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSource......................none
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSourceClassName.............none
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSourceJNDI..................none
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSourceProperties............{password=<masked>}
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- driverClassName................."com.mysql.cj.jdbc.Driver"
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- healthCheckProperties...........{}
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- healthCheckRegistry.............none
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- idleTimeout.....................600000
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- initializationFailTimeout.......1
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- isolateInternalQueries..........false
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- jdbcUrl.........................jdbc:mysql://localhost:3306/cos?serverTimezone=GMT%2B8&useUnicode=true&characterEncoding=utf8&useSSL=false&allowMultiQueries=true&autoReconnet=true&allowPublicKeyRetrieval=true
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- leakDetectionThreshold..........0
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- maxLifetime.....................1800000
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- maximumPoolSize.................10
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- metricRegistry..................none
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- metricsTrackerFactory...........none
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- minimumIdle.....................10
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- password........................<masked>
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- poolName........................"HikariPool-1"
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- readOnly........................false
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- registerMbeans..................false
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- scheduledExecutor...............none
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- schema..........................none
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- threadFactory...................internal
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- transactionIsolation............default
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- username........................"root"
+[2020-11-25 11:00:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- validationTimeout...............5000
+[2020-11-25 11:00:16] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@640b85a6
+[2020-11-25 11:00:16] -- [DEBUG]: [com.dfundata.fund.schedule.mapper.AlgoMapper.updByAlgoId] -- ==>  Preparing: update algorithm_baseinfo set algorithm_name=?, algorithm_vision=?, algorithm_type = ? apply_client_scope = ? algorithm_description = ? WHERE algorithm_id =? 
+[2020-11-25 11:00:16] -- [DEBUG]: [com.dfundata.fund.schedule.mapper.AlgoMapper.updByAlgoId] -- ==> Parameters: 算法测试(String), v1.0.2(String), 0(String), 0(String), 这是一个算法(String), 1(Integer)
+[2020-11-25 11:00:16] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+[2020-11-25 11:00:16] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@338ed4fa
+[2020-11-25 11:00:16] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@47b0c938
+[2020-11-25 11:00:16] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3d38eec0
+[2020-11-25 11:00:16] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@12ed59b2
+[2020-11-25 11:00:16] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4fd0f425
+[2020-11-25 11:00:16] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@78060f7a
+[2020-11-25 11:00:16] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@150222c4
+[2020-11-25 11:00:16] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1ecc5c83
+[2020-11-25 11:00:16] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@24348a68
+[2020-11-25 11:00:16] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:00:16] -- [DEBUG]: [io.sentry.event.EventBuilder$HostnameCache] -- Updating the hostname cache
+[2020-11-25 11:00:46] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:01:16] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:01:46] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:02:16] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:02:46] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:03:16] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:03:30] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Gracefully shutting down Sentry async threads.
+[2020-11-25 11:03:30] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Shutdown finished.
+[2020-11-25 11:03:30] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:03:30] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@640b85a6: (connection evicted)
+[2020-11-25 11:03:30] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@338ed4fa: (connection evicted)
+[2020-11-25 11:03:30] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@47b0c938: (connection evicted)
+[2020-11-25 11:03:30] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3d38eec0: (connection evicted)
+[2020-11-25 11:03:30] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@12ed59b2: (connection evicted)
+[2020-11-25 11:03:30] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@4fd0f425: (connection evicted)
+[2020-11-25 11:03:30] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@78060f7a: (connection evicted)
+[2020-11-25 11:03:30] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@150222c4: (connection evicted)
+[2020-11-25 11:03:30] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1ecc5c83: (connection evicted)
+[2020-11-25 11:03:30] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@24348a68: (connection evicted)
+[2020-11-25 11:03:30] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+[2020-11-25 11:03:33] -- [DEBUG]: [com.dfundata.fund.schedule.ScheduleApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-11-25 11:03:34] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-11-25 11:03:34] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-11-25 11:03:35] -- [DEBUG]: [io.sentry.config.Lookup] -- Sentry configuration file not found in filesystem or classpath: 'sentry.properties'.
+[2020-11-25 11:03:35] -- [DEBUG]: [io.sentry.DefaultSentryClientFactory] -- Using an HTTPS connection to Sentry.
+[2020-11-25 11:03:35] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.HttpEventBuilderHelper@37a9b687' to the list of builder helpers.
+[2020-11-25 11:03:35] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.ContextBuilderHelper@6c977dcf' to the list of builder helpers.
+[2020-11-25 11:03:35] -- [DEBUG]: [io.sentry.SentryClientFactory] -- Configuring uncaught exception handler.
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- HikariPool-1 - configuration:
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- allowPoolSuspension.............false
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- autoCommit......................true
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- catalog.........................none
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- connectionInitSql...............none
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- connectionTestQuery.............none
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- connectionTimeout...............30000
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSource......................none
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSourceClassName.............none
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSourceJNDI..................none
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSourceProperties............{password=<masked>}
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- driverClassName................."com.mysql.cj.jdbc.Driver"
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- healthCheckProperties...........{}
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- healthCheckRegistry.............none
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- idleTimeout.....................600000
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- initializationFailTimeout.......1
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- isolateInternalQueries..........false
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- jdbcUrl.........................jdbc:mysql://localhost:3306/cos?serverTimezone=GMT%2B8&useUnicode=true&characterEncoding=utf8&useSSL=false&allowMultiQueries=true&autoReconnet=true&allowPublicKeyRetrieval=true
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- leakDetectionThreshold..........0
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- maxLifetime.....................1800000
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- maximumPoolSize.................10
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- metricRegistry..................none
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- metricsTrackerFactory...........none
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- minimumIdle.....................10
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- password........................<masked>
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- poolName........................"HikariPool-1"
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- readOnly........................false
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- registerMbeans..................false
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- scheduledExecutor...............none
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- schema..........................none
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- threadFactory...................internal
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- transactionIsolation............default
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- username........................"root"
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- validationTimeout...............5000
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@431b3d92
+[2020-11-25 11:03:45] -- [DEBUG]: [com.dfundata.fund.schedule.mapper.AlgoMapper.updByAlgoId] -- ==>  Preparing: update algorithm_baseinfo SET algorithm_name=?, algorithm_vision=?, algorithm_type = ?, apply_client_scope = ?, algorithm_description = ? WHERE algorithm_id =? 
+[2020-11-25 11:03:45] -- [DEBUG]: [com.dfundata.fund.schedule.mapper.AlgoMapper.updByAlgoId] -- ==> Parameters: 算法测试(String), v1.0.2(String), 0(String), 0(String), 这是一个算法(String), 1(Integer)
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@79209235
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@dd4fa42
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@721c3721
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5843c486
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1e6d87f5
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@24740c6
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@24fdf996
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@55961c5e
+[2020-11-25 11:03:45] -- [DEBUG]: [io.sentry.event.EventBuilder$HostnameCache] -- Updating the hostname cache
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@bb1e818
+[2020-11-25 11:03:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:04:15] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:04:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:05:15] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:05:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:06:15] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:06:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:07:15] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:07:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:08:15] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:08:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:09:15] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:09:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:10:15] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:10:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:11:15] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:11:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:12:15] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:12:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:13:15] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:13:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:14:15] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:14:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:15:15] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:15:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:16:15] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:16:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:17:15] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:17:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:18:15] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:18:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:19:15] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:19:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:20:15] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:20:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:21:15] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:21:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:22:15] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:22:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:23:15] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:23:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:24:15] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:24:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:25:15] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:25:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:26:15] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:26:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:27:15] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:27:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:28:15] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:28:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:29:15] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:29:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:30:15] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:30:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:31:15] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:31:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:33:24] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:33:54] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:34:12] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5843c486: (connection has passed maxLifetime)
+[2020-11-25 11:34:12] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@748b3ff9
+[2020-11-25 11:34:19] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@24740c6: (connection has passed maxLifetime)
+[2020-11-25 11:34:19] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4c58e094
+[2020-11-25 11:34:24] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:34:33] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@431b3d92: (connection has passed maxLifetime)
+[2020-11-25 11:34:33] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@520c8099
+[2020-11-25 11:34:34] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@79209235: (connection has passed maxLifetime)
+[2020-11-25 11:34:34] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@26d3e2bd
+[2020-11-25 11:34:36] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@24fdf996: (connection has passed maxLifetime)
+[2020-11-25 11:34:36] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4fb379b6
+[2020-11-25 11:34:37] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1e6d87f5: (connection has passed maxLifetime)
+[2020-11-25 11:34:37] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@34fdf27a
+[2020-11-25 11:34:42] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@bb1e818: (connection has passed maxLifetime)
+[2020-11-25 11:34:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71573f50
+[2020-11-25 11:34:43] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@55961c5e: (connection has passed maxLifetime)
+[2020-11-25 11:34:43] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@26da31a4
+[2020-11-25 11:34:46] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@dd4fa42: (connection has passed maxLifetime)
+[2020-11-25 11:34:46] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7ffd0033
+[2020-11-25 11:34:51] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@721c3721: (connection has passed maxLifetime)
+[2020-11-25 11:34:51] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@547670d7
+[2020-11-25 11:34:54] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:35:51] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:36:21] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:36:51] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:37:21] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:37:51] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:38:21] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:41:07] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:41:37] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:42:07] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:42:37] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:43:07] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:43:37] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:44:07] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:44:37] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:45:07] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:45:37] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:46:07] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:46:37] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:47:07] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:47:37] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:48:07] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:48:37] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:49:07] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:49:37] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:50:07] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:50:37] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:51:07] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:51:37] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 11:52:07] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:18:43] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:19:13] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:19:43] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:20:13] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:20:43] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:21:13] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:21:43] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:22:13] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:22:43] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:23:13] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:23:43] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:24:13] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:24:43] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:25:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:25:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:26:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:26:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:27:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:27:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:28:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:28:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:29:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:29:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:30:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:30:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:31:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:31:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:32:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:32:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:32:44] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@34fdf27a: (connection has passed maxLifetime)
+[2020-11-25 13:32:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@34bd8a82
+[2020-11-25 13:32:52] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7ffd0033: (connection has passed maxLifetime)
+[2020-11-25 13:32:52] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@23550017
+[2020-11-25 13:32:56] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@71573f50: (connection has passed maxLifetime)
+[2020-11-25 13:32:56] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@57fb5cd9
+[2020-11-25 13:32:57] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@748b3ff9: (connection has passed maxLifetime)
+[2020-11-25 13:32:57] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3b398265
+[2020-11-25 13:33:00] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@4c58e094: (connection has passed maxLifetime)
+[2020-11-25 13:33:00] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2361f97
+[2020-11-25 13:33:01] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@26d3e2bd: (connection has passed maxLifetime)
+[2020-11-25 13:33:01] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@40331983
+[2020-11-25 13:33:02] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@26da31a4: (connection has passed maxLifetime)
+[2020-11-25 13:33:02] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@25a5c105
+[2020-11-25 13:33:05] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@4fb379b6: (connection has passed maxLifetime)
+[2020-11-25 13:33:05] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@753b799
+[2020-11-25 13:33:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:33:17] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@520c8099: (connection has passed maxLifetime)
+[2020-11-25 13:33:17] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2820dc7d
+[2020-11-25 13:33:34] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@547670d7: (connection has passed maxLifetime)
+[2020-11-25 13:33:34] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2abc9828
+[2020-11-25 13:33:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:34:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:34:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:35:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:35:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:36:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:36:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:37:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:37:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:38:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:38:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:39:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:39:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:40:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:40:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:41:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:41:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:42:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:42:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:43:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:43:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:44:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:44:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:45:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:45:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:46:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:46:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:47:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:47:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:48:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:48:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:49:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:49:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:50:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:50:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:51:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:51:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:52:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:52:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:53:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:53:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:54:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:54:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:55:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:55:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:56:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:56:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:57:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:57:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:58:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:58:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:59:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 13:59:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:00:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:00:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:01:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:01:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:02:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:02:20] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2361f97: (connection has passed maxLifetime)
+[2020-11-25 14:02:20] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2a129f66
+[2020-11-25 14:02:31] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@753b799: (connection has passed maxLifetime)
+[2020-11-25 14:02:31] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@406b6e6a
+[2020-11-25 14:02:31] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@23550017: (connection has passed maxLifetime)
+[2020-11-25 14:02:31] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@34a67b8b
+[2020-11-25 14:02:36] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@40331983: (connection has passed maxLifetime)
+[2020-11-25 14:02:36] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2a77169c
+[2020-11-25 14:02:43] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3b398265: (connection has passed maxLifetime)
+[2020-11-25 14:02:43] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@57d0d166
+[2020-11-25 14:02:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:02:44] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@34bd8a82: (connection has passed maxLifetime)
+[2020-11-25 14:02:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@238ae26c
+[2020-11-25 14:02:47] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@57fb5cd9: (connection has passed maxLifetime)
+[2020-11-25 14:02:47] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6d7d7e03
+[2020-11-25 14:02:57] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2820dc7d: (connection has passed maxLifetime)
+[2020-11-25 14:02:57] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@55d7ac75
+[2020-11-25 14:03:00] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@25a5c105: (connection has passed maxLifetime)
+[2020-11-25 14:03:00] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@218f9a45
+[2020-11-25 14:03:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:03:22] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2abc9828: (connection has passed maxLifetime)
+[2020-11-25 14:03:23] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3db73e36
+[2020-11-25 14:03:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:04:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:04:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:05:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:05:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:06:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:06:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:07:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:07:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:08:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:08:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:09:14] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:09:44] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:09:46] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Gracefully shutting down Sentry async threads.
+[2020-11-25 14:09:46] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Shutdown finished.
+[2020-11-25 14:09:46] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:09:46] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2a129f66: (connection evicted)
+[2020-11-25 14:09:46] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@406b6e6a: (connection evicted)
+[2020-11-25 14:09:46] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@34a67b8b: (connection evicted)
+[2020-11-25 14:09:46] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2a77169c: (connection evicted)
+[2020-11-25 14:09:46] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@57d0d166: (connection evicted)
+[2020-11-25 14:09:46] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@238ae26c: (connection evicted)
+[2020-11-25 14:09:46] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6d7d7e03: (connection evicted)
+[2020-11-25 14:09:46] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@55d7ac75: (connection evicted)
+[2020-11-25 14:09:46] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@218f9a45: (connection evicted)
+[2020-11-25 14:09:46] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3db73e36: (connection evicted)
+[2020-11-25 14:09:46] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+[2020-11-25 14:09:49] -- [DEBUG]: [com.dfundata.fund.schedule.ScheduleApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-11-25 14:09:50] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-11-25 14:09:50] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-11-25 14:09:50] -- [DEBUG]: [io.sentry.config.Lookup] -- Sentry configuration file not found in filesystem or classpath: 'sentry.properties'.
+[2020-11-25 14:09:50] -- [DEBUG]: [io.sentry.DefaultSentryClientFactory] -- Using an HTTPS connection to Sentry.
+[2020-11-25 14:09:50] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.HttpEventBuilderHelper@3fcbc766' to the list of builder helpers.
+[2020-11-25 14:09:50] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.ContextBuilderHelper@79b18230' to the list of builder helpers.
+[2020-11-25 14:09:50] -- [DEBUG]: [io.sentry.SentryClientFactory] -- Configuring uncaught exception handler.
+[2020-11-25 14:16:48] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Gracefully shutting down Sentry async threads.
+[2020-11-25 14:16:48] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Shutdown finished.
+[2020-11-25 14:29:36] -- [DEBUG]: [com.dfundata.fund.schedule.ScheduleApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-11-25 14:29:37] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-11-25 14:29:37] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-11-25 14:29:38] -- [DEBUG]: [io.sentry.config.Lookup] -- Sentry configuration file not found in filesystem or classpath: 'sentry.properties'.
+[2020-11-25 14:29:38] -- [DEBUG]: [io.sentry.DefaultSentryClientFactory] -- Using an HTTPS connection to Sentry.
+[2020-11-25 14:29:38] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.HttpEventBuilderHelper@3ece79fe' to the list of builder helpers.
+[2020-11-25 14:29:38] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.ContextBuilderHelper@6be6931f' to the list of builder helpers.
+[2020-11-25 14:29:38] -- [DEBUG]: [io.sentry.SentryClientFactory] -- Configuring uncaught exception handler.
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- HikariPool-1 - configuration:
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- allowPoolSuspension.............false
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- autoCommit......................true
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- catalog.........................none
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- connectionInitSql...............none
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- connectionTestQuery.............none
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- connectionTimeout...............30000
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSource......................none
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSourceClassName.............none
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSourceJNDI..................none
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSourceProperties............{password=<masked>}
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- driverClassName................."com.mysql.cj.jdbc.Driver"
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- healthCheckProperties...........{}
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- healthCheckRegistry.............none
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- idleTimeout.....................600000
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- initializationFailTimeout.......1
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- isolateInternalQueries..........false
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- jdbcUrl.........................jdbc:mysql://localhost:3306/cos?serverTimezone=GMT%2B8&useUnicode=true&characterEncoding=utf8&useSSL=false&allowMultiQueries=true&autoReconnet=true&allowPublicKeyRetrieval=true
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- leakDetectionThreshold..........0
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- maxLifetime.....................1800000
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- maximumPoolSize.................10
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- metricRegistry..................none
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- metricsTrackerFactory...........none
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- minimumIdle.....................10
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- password........................<masked>
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- poolName........................"HikariPool-1"
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- readOnly........................false
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- registerMbeans..................false
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- scheduledExecutor...............none
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- schema..........................none
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- threadFactory...................internal
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- transactionIsolation............default
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- username........................"root"
+[2020-11-25 14:36:01] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- validationTimeout...............5000
+[2020-11-25 14:36:02] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Failed to create/setup connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2020-11-25 14:36:02] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Cannot acquire connection from data source
+com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:836)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:456)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:197)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:354)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:202)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:473)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:554)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112)
+	at org.springframework.jdbc.datasource.DataSourceUtils.fetchConnection(DataSourceUtils.java:158)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:116)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:79)
+	at org.mybatis.spring.transaction.SpringManagedTransaction.openConnection(SpringManagedTransaction.java:82)
+	at org.mybatis.spring.transaction.SpringManagedTransaction.getConnection(SpringManagedTransaction.java:68)
+	at org.apache.ibatis.executor.BaseExecutor.getConnection(BaseExecutor.java:336)
+	at org.apache.ibatis.executor.SimpleExecutor.prepareStatement(SimpleExecutor.java:84)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:62)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:324)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:83)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:148)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:141)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:433)
+	at com.sun.proxy.$Proxy66.selectList(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectList(SqlSessionTemplate.java:230)
+	at org.apache.ibatis.binding.MapperMethod.executeForMany(MapperMethod.java:137)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:75)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:59)
+	at com.sun.proxy.$Proxy67.selectAlgoByCondition(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:344)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy68.selectAlgoByCondition(Unknown Source)
+	at com.dfundata.fund.schedule.service.AlgoService.getAlgolist(AlgoService.java:49)
+	at com.dfundata.fund.schedule.web.AlgoController.selectAlgoList(AlgoController.java:42)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:367)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1639)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:91)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:956)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:826)
+	... 98 common frames omitted
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:65)
+	... 101 common frames omitted
+[2020-11-25 14:36:03] -- [DEBUG]: [io.sentry.event.EventBuilder$HostnameCache] -- Updating the hostname cache
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- HikariPool-1 - configuration:
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- allowPoolSuspension.............false
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- autoCommit......................true
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- catalog.........................none
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- connectionInitSql...............none
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- connectionTestQuery.............none
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- connectionTimeout...............30000
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSource......................none
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSourceClassName.............none
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSourceJNDI..................none
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSourceProperties............{password=<masked>}
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- driverClassName................."com.mysql.cj.jdbc.Driver"
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- healthCheckProperties...........{}
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- healthCheckRegistry.............none
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- idleTimeout.....................600000
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- initializationFailTimeout.......1
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- isolateInternalQueries..........false
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- jdbcUrl.........................jdbc:mysql://localhost:3306/cos?serverTimezone=GMT%2B8&useUnicode=true&characterEncoding=utf8&useSSL=false&allowMultiQueries=true&autoReconnet=true&allowPublicKeyRetrieval=true
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- leakDetectionThreshold..........0
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- maxLifetime.....................1800000
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- maximumPoolSize.................10
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- metricRegistry..................none
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- metricsTrackerFactory...........none
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- minimumIdle.....................10
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- password........................<masked>
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- poolName........................"HikariPool-1"
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- readOnly........................false
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- registerMbeans..................false
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- scheduledExecutor...............none
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- schema..........................none
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- threadFactory...................internal
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- transactionIsolation............default
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- username........................"root"
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- validationTimeout...............5000
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@fd7b890
+[2020-11-25 14:36:42] -- [DEBUG]: [com.dfundata.fund.schedule.mapper.AlgoMapper.selectAlgoByCondition] -- ==>  Preparing: select algorithm_id as algorithmId,algorithm_name as algorithmName,algorithm_vision as algorithmVision, algorithm_type as algorithmType,apply_client_scope as applyClientScope,creater as creater, create_Time as createTime,algorithm_description as algorithmDescription,algorithm_status as algorithmStatus from algorithm_baseinfo 
+[2020-11-25 14:36:42] -- [DEBUG]: [com.dfundata.fund.schedule.mapper.AlgoMapper.selectAlgoByCondition] -- ==> Parameters: 
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=1, active=1, idle=0, waiting=0)
+[2020-11-25 14:36:42] -- [DEBUG]: [com.dfundata.fund.schedule.mapper.AlgoMapper.selectAlgoByCondition] -- <==      Total: 3
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@528fc9ec
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@26d0b812
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5e778e4a
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@73ec2985
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@186a6d18
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5e6db26b
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6d9cd277
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@c65a2b8
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@75cc5081
+[2020-11-25 14:36:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:37:12] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:37:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:38:12] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:38:27] -- [DEBUG]: [com.dfundata.fund.schedule.mapper.AlgoMapper.updByAlgoId] -- ==>  Preparing: update algorithm_baseinfo SET algorithm_name=?, algorithm_vision=?, algorithm_type = ?, apply_client_scope = ?, algorithm_description = ? WHERE algorithm_id =? 
+[2020-11-25 14:38:27] -- [DEBUG]: [com.dfundata.fund.schedule.mapper.AlgoMapper.updByAlgoId] -- ==> Parameters: 算法测试(String), v1.0.2(String), 0(String), 0(String), 这是一个算法(String), 1(Integer)
+[2020-11-25 14:38:27] -- [DEBUG]: [com.dfundata.fund.schedule.mapper.AlgoMapper.updByAlgoId] -- <==    Updates: 1
+[2020-11-25 14:38:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:39:12] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:39:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:40:12] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:40:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:41:12] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:41:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:42:12] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:42:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:43:12] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:43:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:44:12] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:44:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:45:12] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:45:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:46:12] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:46:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:47:12] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:47:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:48:12] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:48:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:49:12] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:49:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:50:12] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:50:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:51:12] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:51:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:52:12] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:52:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:53:12] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:53:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:54:12] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:54:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:55:12] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:55:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:56:12] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:56:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:57:12] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:57:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:58:12] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:58:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:59:12] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 14:59:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:00:12] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:00:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:01:12] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:01:42] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:02:12] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:02:33] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Gracefully shutting down Sentry async threads.
+[2020-11-25 15:02:33] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Shutdown finished.
+[2020-11-25 15:02:33] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:02:33] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@fd7b890: (connection evicted)
+[2020-11-25 15:02:33] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@528fc9ec: (connection evicted)
+[2020-11-25 15:02:33] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@26d0b812: (connection evicted)
+[2020-11-25 15:02:33] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5e778e4a: (connection evicted)
+[2020-11-25 15:02:33] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@73ec2985: (connection evicted)
+[2020-11-25 15:02:33] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@186a6d18: (connection evicted)
+[2020-11-25 15:02:33] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5e6db26b: (connection evicted)
+[2020-11-25 15:02:33] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6d9cd277: (connection evicted)
+[2020-11-25 15:02:33] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@c65a2b8: (connection evicted)
+[2020-11-25 15:02:33] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@75cc5081: (connection evicted)
+[2020-11-25 15:02:33] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+[2020-11-25 15:37:07] -- [DEBUG]: [com.dfundata.fund.schedule.ScheduleApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-11-25 15:37:08] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-11-25 15:37:08] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-11-25 15:37:08] -- [DEBUG]: [io.sentry.config.Lookup] -- Sentry configuration file not found in filesystem or classpath: 'sentry.properties'.
+[2020-11-25 15:37:08] -- [DEBUG]: [io.sentry.DefaultSentryClientFactory] -- Using an HTTPS connection to Sentry.
+[2020-11-25 15:37:08] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.HttpEventBuilderHelper@3d40a3b4' to the list of builder helpers.
+[2020-11-25 15:37:08] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.ContextBuilderHelper@40d52be7' to the list of builder helpers.
+[2020-11-25 15:37:08] -- [DEBUG]: [io.sentry.SentryClientFactory] -- Configuring uncaught exception handler.
+[2020-11-25 15:39:39] -- [DEBUG]: [io.sentry.event.EventBuilder$HostnameCache] -- Updating the hostname cache
+[2020-11-25 15:40:26] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Gracefully shutting down Sentry async threads.
+[2020-11-25 15:40:26] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Shutdown finished.
+[2020-11-25 15:40:28] -- [DEBUG]: [com.dfundata.fund.schedule.ScheduleApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-11-25 15:40:29] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-11-25 15:40:29] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-11-25 15:40:30] -- [DEBUG]: [io.sentry.config.Lookup] -- Sentry configuration file not found in filesystem or classpath: 'sentry.properties'.
+[2020-11-25 15:40:30] -- [DEBUG]: [io.sentry.DefaultSentryClientFactory] -- Using an HTTPS connection to Sentry.
+[2020-11-25 15:40:30] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.HttpEventBuilderHelper@6dce59e' to the list of builder helpers.
+[2020-11-25 15:40:30] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.ContextBuilderHelper@691124ee' to the list of builder helpers.
+[2020-11-25 15:40:30] -- [DEBUG]: [io.sentry.SentryClientFactory] -- Configuring uncaught exception handler.
+[2020-11-25 15:40:53] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Gracefully shutting down Sentry async threads.
+[2020-11-25 15:40:53] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Shutdown finished.
+[2020-11-25 15:40:55] -- [DEBUG]: [com.dfundata.fund.schedule.ScheduleApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-11-25 15:40:56] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-11-25 15:40:56] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-11-25 15:40:57] -- [DEBUG]: [io.sentry.config.Lookup] -- Sentry configuration file not found in filesystem or classpath: 'sentry.properties'.
+[2020-11-25 15:40:57] -- [DEBUG]: [io.sentry.DefaultSentryClientFactory] -- Using an HTTPS connection to Sentry.
+[2020-11-25 15:40:57] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.HttpEventBuilderHelper@6f9ab79d' to the list of builder helpers.
+[2020-11-25 15:40:57] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.ContextBuilderHelper@53aa2fc9' to the list of builder helpers.
+[2020-11-25 15:40:57] -- [DEBUG]: [io.sentry.SentryClientFactory] -- Configuring uncaught exception handler.
+[2020-11-25 15:41:04] -- [DEBUG]: [io.sentry.event.EventBuilder$HostnameCache] -- Updating the hostname cache
+[2020-11-25 15:41:20] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Gracefully shutting down Sentry async threads.
+[2020-11-25 15:41:20] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Shutdown finished.
+[2020-11-25 15:41:22] -- [DEBUG]: [com.dfundata.fund.schedule.ScheduleApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-11-25 15:41:23] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-11-25 15:41:23] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-11-25 15:41:24] -- [DEBUG]: [io.sentry.config.Lookup] -- Sentry configuration file not found in filesystem or classpath: 'sentry.properties'.
+[2020-11-25 15:41:24] -- [DEBUG]: [io.sentry.DefaultSentryClientFactory] -- Using an HTTPS connection to Sentry.
+[2020-11-25 15:41:24] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.HttpEventBuilderHelper@388c519' to the list of builder helpers.
+[2020-11-25 15:41:24] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.ContextBuilderHelper@3a38f122' to the list of builder helpers.
+[2020-11-25 15:41:24] -- [DEBUG]: [io.sentry.SentryClientFactory] -- Configuring uncaught exception handler.
+[2020-11-25 15:41:57] -- [DEBUG]: [io.sentry.event.EventBuilder$HostnameCache] -- Updating the hostname cache
+[2020-11-25 15:42:18] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Gracefully shutting down Sentry async threads.
+[2020-11-25 15:42:18] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Shutdown finished.
+[2020-11-25 15:42:21] -- [DEBUG]: [com.dfundata.fund.schedule.ScheduleApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-11-25 15:42:22] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-11-25 15:42:22] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-11-25 15:42:22] -- [DEBUG]: [io.sentry.config.Lookup] -- Sentry configuration file not found in filesystem or classpath: 'sentry.properties'.
+[2020-11-25 15:42:22] -- [DEBUG]: [io.sentry.DefaultSentryClientFactory] -- Using an HTTPS connection to Sentry.
+[2020-11-25 15:42:22] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.HttpEventBuilderHelper@2b08772d' to the list of builder helpers.
+[2020-11-25 15:42:22] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.ContextBuilderHelper@159424e2' to the list of builder helpers.
+[2020-11-25 15:42:22] -- [DEBUG]: [io.sentry.SentryClientFactory] -- Configuring uncaught exception handler.
+[2020-11-25 15:42:48] -- [DEBUG]: [io.sentry.event.EventBuilder$HostnameCache] -- Updating the hostname cache
+[2020-11-25 15:43:07] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Gracefully shutting down Sentry async threads.
+[2020-11-25 15:43:07] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Shutdown finished.
+[2020-11-25 15:43:10] -- [DEBUG]: [com.dfundata.fund.schedule.ScheduleApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-11-25 15:43:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-11-25 15:43:11] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-11-25 15:43:11] -- [DEBUG]: [io.sentry.config.Lookup] -- Sentry configuration file not found in filesystem or classpath: 'sentry.properties'.
+[2020-11-25 15:43:11] -- [DEBUG]: [io.sentry.DefaultSentryClientFactory] -- Using an HTTPS connection to Sentry.
+[2020-11-25 15:43:11] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.HttpEventBuilderHelper@337a6d30' to the list of builder helpers.
+[2020-11-25 15:43:11] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.ContextBuilderHelper@750ed637' to the list of builder helpers.
+[2020-11-25 15:43:11] -- [DEBUG]: [io.sentry.SentryClientFactory] -- Configuring uncaught exception handler.
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- HikariPool-1 - configuration:
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- allowPoolSuspension.............false
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- autoCommit......................true
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- catalog.........................none
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- connectionInitSql...............none
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- connectionTestQuery.............none
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- connectionTimeout...............30000
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSource......................none
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSourceClassName.............none
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSourceJNDI..................none
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSourceProperties............{password=<masked>}
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- driverClassName................."com.mysql.cj.jdbc.Driver"
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- healthCheckProperties...........{}
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- healthCheckRegistry.............none
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- idleTimeout.....................600000
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- initializationFailTimeout.......1
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- isolateInternalQueries..........false
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- jdbcUrl.........................jdbc:mysql://localhost:3306/cos?serverTimezone=GMT%2B8&useUnicode=true&characterEncoding=utf8&useSSL=false&allowMultiQueries=true&autoReconnet=true&allowPublicKeyRetrieval=true
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- leakDetectionThreshold..........0
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- maxLifetime.....................1800000
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- maximumPoolSize.................10
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- metricRegistry..................none
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- metricsTrackerFactory...........none
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- minimumIdle.....................10
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- password........................<masked>
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- poolName........................"HikariPool-1"
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- readOnly........................false
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- registerMbeans..................false
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- scheduledExecutor...............none
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- schema..........................none
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- threadFactory...................internal
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- transactionIsolation............default
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- username........................"root"
+[2020-11-25 15:43:16] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- validationTimeout...............5000
+[2020-11-25 15:43:17] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4295ada0
+[2020-11-25 15:43:17] -- [DEBUG]: [com.dfundata.fund.schedule.mapper.AlgoMapper.updByAlgoId] -- ==>  Preparing: update algorithm_baseinfo SET algorithm_name=?, algorithm_vision=?, algorithm_type = ?, apply_client_scope = ?, algorithm_description = ?, upd_user = ?, upd_time = ?, pythonfile = ?, python_url = ?, modelfile = ?, model_url = ?, algorithm_state = ? WHERE algorithm_id =? 
+[2020-11-25 15:43:17] -- [DEBUG]: [com.dfundata.fund.schedule.mapper.AlgoMapper.updByAlgoId] -- ==> Parameters: 普通算法(String), v1.0.1(String), 1(String), (String), (String), seldom(String), 2020-11-25(Date), hello1.py(String), /url/hello(String), (String), (String), 0(String), 1(Integer)
+[2020-11-25 15:43:17] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+[2020-11-25 15:43:17] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@146461ab
+[2020-11-25 15:43:17] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@607dbdc3
+[2020-11-25 15:43:17] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@9d8e28c
+[2020-11-25 15:43:17] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3507cffc
+[2020-11-25 15:43:17] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3ee7b6ce
+[2020-11-25 15:43:17] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@52febb1a
+[2020-11-25 15:43:17] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@500a24e8
+[2020-11-25 15:43:17] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5d34355a
+[2020-11-25 15:43:17] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@37bb1030
+[2020-11-25 15:43:17] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:43:17] -- [DEBUG]: [io.sentry.event.EventBuilder$HostnameCache] -- Updating the hostname cache
+[2020-11-25 15:43:47] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:44:17] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:44:27] -- [DEBUG]: [com.dfundata.fund.schedule.mapper.AlgoMapper.updByAlgoId] -- ==>  Preparing: update algorithm_baseinfo SET algorithm_name=?, algorithm_vision=?, algorithm_type = ?, apply_client_scope = ?, algorithm_description = ?, upd_user = ?, upd_time = ?, pythonfile = ?, python_url = ?, modelfile = ?, model_url = ?, algorithm_state = ? WHERE algorithm_id =? 
+[2020-11-25 15:44:27] -- [DEBUG]: [com.dfundata.fund.schedule.mapper.AlgoMapper.updByAlgoId] -- ==> Parameters: 普通算法(String), v1.0.1(String), 1(String), (String), (String), seldom(String), 2020-11-25(Date), hello1.py(String), /url/hello(String), (String), (String), 0(String), 1(Integer)
+[2020-11-25 15:44:27] -- [DEBUG]: [com.dfundata.fund.schedule.mapper.AlgoMapper.updByAlgoId] -- <==    Updates: 1
+[2020-11-25 15:44:47] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:45:17] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:45:23] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Gracefully shutting down Sentry async threads.
+[2020-11-25 15:45:23] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Shutdown finished.
+[2020-11-25 15:45:23] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:45:23] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@4295ada0: (connection evicted)
+[2020-11-25 15:45:23] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@146461ab: (connection evicted)
+[2020-11-25 15:45:23] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@607dbdc3: (connection evicted)
+[2020-11-25 15:45:23] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@9d8e28c: (connection evicted)
+[2020-11-25 15:45:23] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3507cffc: (connection evicted)
+[2020-11-25 15:45:23] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3ee7b6ce: (connection evicted)
+[2020-11-25 15:45:23] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@52febb1a: (connection evicted)
+[2020-11-25 15:45:23] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@500a24e8: (connection evicted)
+[2020-11-25 15:45:23] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5d34355a: (connection evicted)
+[2020-11-25 15:45:23] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@37bb1030: (connection evicted)
+[2020-11-25 15:45:23] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+[2020-11-25 15:45:26] -- [DEBUG]: [com.dfundata.fund.schedule.ScheduleApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-11-25 15:45:27] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-11-25 15:45:27] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-11-25 15:45:28] -- [DEBUG]: [io.sentry.config.Lookup] -- Sentry configuration file not found in filesystem or classpath: 'sentry.properties'.
+[2020-11-25 15:45:28] -- [DEBUG]: [io.sentry.DefaultSentryClientFactory] -- Using an HTTPS connection to Sentry.
+[2020-11-25 15:45:28] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.HttpEventBuilderHelper@193bb809' to the list of builder helpers.
+[2020-11-25 15:45:28] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.ContextBuilderHelper@1c240cf2' to the list of builder helpers.
+[2020-11-25 15:45:28] -- [DEBUG]: [io.sentry.SentryClientFactory] -- Configuring uncaught exception handler.
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- HikariPool-1 - configuration:
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- allowPoolSuspension.............false
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- autoCommit......................true
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- catalog.........................none
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- connectionInitSql...............none
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- connectionTestQuery.............none
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- connectionTimeout...............30000
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSource......................none
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSourceClassName.............none
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSourceJNDI..................none
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSourceProperties............{password=<masked>}
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- driverClassName................."com.mysql.cj.jdbc.Driver"
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- healthCheckProperties...........{}
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- healthCheckRegistry.............none
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- idleTimeout.....................600000
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- initializationFailTimeout.......1
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- isolateInternalQueries..........false
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- jdbcUrl.........................jdbc:mysql://localhost:3306/cos?serverTimezone=GMT%2B8&useUnicode=true&characterEncoding=utf8&useSSL=false&allowMultiQueries=true&autoReconnet=true&allowPublicKeyRetrieval=true
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- leakDetectionThreshold..........0
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- maxLifetime.....................1800000
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- maximumPoolSize.................10
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- metricRegistry..................none
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- metricsTrackerFactory...........none
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- minimumIdle.....................10
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- password........................<masked>
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- poolName........................"HikariPool-1"
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- readOnly........................false
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- registerMbeans..................false
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- scheduledExecutor...............none
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- schema..........................none
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- threadFactory...................internal
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- transactionIsolation............default
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- username........................"root"
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- validationTimeout...............5000
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@958626e
+[2020-11-25 15:46:11] -- [DEBUG]: [com.dfundata.fund.schedule.mapper.AlgoMapper.updByAlgoId] -- ==>  Preparing: update algorithm_baseinfo SET algorithm_name=?, algorithm_vision=?, algorithm_type = ?, apply_client_scope = ?, algorithm_description = ?, upd_user = ?, upd_time = ?, pythonfile = ?, python_url = ?, modelfile = ?, model_url = ?, algorithm_state = ? WHERE algorithm_id =? 
+[2020-11-25 15:46:11] -- [DEBUG]: [com.dfundata.fund.schedule.mapper.AlgoMapper.updByAlgoId] -- ==> Parameters: 普通算法(String), v1.0.1(String), 1(String), (String), (String), seldom(String), 2020-11-25(Date), hello1.py(String), /url/hello(String), (String), (String), 0(String), 1(Integer)
+[2020-11-25 15:46:11] -- [DEBUG]: [com.dfundata.fund.schedule.mapper.AlgoMapper.updByAlgoId] -- <==    Updates: 1
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@54001bf2
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@20d97b88
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@61d0b289
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@75636dcd
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3337435b
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@260a95c5
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2b55b66d
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6a85ca10
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1fd714df
+[2020-11-25 15:46:11] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:46:41] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:47:04] -- [DEBUG]: [com.dfundata.fund.schedule.mapper.AlgoMapper.updByAlgoId] -- ==>  Preparing: update algorithm_baseinfo SET algorithm_name=?, algorithm_vision=?, algorithm_type = ?, apply_client_scope = ?, algorithm_description = ?, upd_user = ?, upd_time = ?, pythonfile = ?, python_url = ?, model_url = ?, algorithm_state = ? WHERE algorithm_id =? 
+[2020-11-25 15:47:04] -- [DEBUG]: [com.dfundata.fund.schedule.mapper.AlgoMapper.updByAlgoId] -- ==> Parameters: 普通算法(String), v1.0.1(String), 1(String), (String), (String), seldom(String), 2020-11-25(Date), hello1.py(String), /url/hello(String), (String), 0(String), 1(Integer)
+[2020-11-25 15:47:04] -- [DEBUG]: [com.dfundata.fund.schedule.mapper.AlgoMapper.updByAlgoId] -- <==    Updates: 1
+[2020-11-25 15:47:11] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:47:41] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:48:11] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:48:41] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:48:50] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Gracefully shutting down Sentry async threads.
+[2020-11-25 15:48:50] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Shutdown finished.
+[2020-11-25 15:48:50] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:48:50] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@958626e: (connection evicted)
+[2020-11-25 15:48:50] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@54001bf2: (connection evicted)
+[2020-11-25 15:48:50] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@20d97b88: (connection evicted)
+[2020-11-25 15:48:50] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@61d0b289: (connection evicted)
+[2020-11-25 15:48:50] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@75636dcd: (connection evicted)
+[2020-11-25 15:48:50] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3337435b: (connection evicted)
+[2020-11-25 15:48:50] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@260a95c5: (connection evicted)
+[2020-11-25 15:48:50] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2b55b66d: (connection evicted)
+[2020-11-25 15:48:50] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6a85ca10: (connection evicted)
+[2020-11-25 15:48:50] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1fd714df: (connection evicted)
+[2020-11-25 15:48:50] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+[2020-11-25 15:48:53] -- [DEBUG]: [com.dfundata.fund.schedule.ScheduleApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-11-25 15:48:54] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-11-25 15:48:54] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-11-25 15:48:55] -- [DEBUG]: [io.sentry.config.Lookup] -- Sentry configuration file not found in filesystem or classpath: 'sentry.properties'.
+[2020-11-25 15:48:55] -- [DEBUG]: [io.sentry.DefaultSentryClientFactory] -- Using an HTTPS connection to Sentry.
+[2020-11-25 15:48:55] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.HttpEventBuilderHelper@4b425577' to the list of builder helpers.
+[2020-11-25 15:48:55] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.ContextBuilderHelper@4f3e9fbb' to the list of builder helpers.
+[2020-11-25 15:48:55] -- [DEBUG]: [io.sentry.SentryClientFactory] -- Configuring uncaught exception handler.
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- HikariPool-1 - configuration:
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- allowPoolSuspension.............false
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- autoCommit......................true
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- catalog.........................none
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- connectionInitSql...............none
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- connectionTestQuery.............none
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- connectionTimeout...............30000
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSource......................none
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSourceClassName.............none
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSourceJNDI..................none
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSourceProperties............{password=<masked>}
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- driverClassName................."com.mysql.cj.jdbc.Driver"
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- healthCheckProperties...........{}
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- healthCheckRegistry.............none
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- idleTimeout.....................600000
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- initializationFailTimeout.......1
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- isolateInternalQueries..........false
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- jdbcUrl.........................jdbc:mysql://localhost:3306/cos?serverTimezone=GMT%2B8&useUnicode=true&characterEncoding=utf8&useSSL=false&allowMultiQueries=true&autoReconnet=true&allowPublicKeyRetrieval=true
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- leakDetectionThreshold..........0
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- maxLifetime.....................1800000
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- maximumPoolSize.................10
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- metricRegistry..................none
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- metricsTrackerFactory...........none
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- minimumIdle.....................10
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- password........................<masked>
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- poolName........................"HikariPool-1"
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- readOnly........................false
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- registerMbeans..................false
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- scheduledExecutor...............none
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- schema..........................none
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- threadFactory...................internal
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- transactionIsolation............default
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- username........................"root"
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- validationTimeout...............5000
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@87a579b
+[2020-11-25 15:49:07] -- [DEBUG]: [com.dfundata.fund.schedule.mapper.AlgoMapper.updByAlgoId] -- ==>  Preparing: update algorithm_baseinfo SET algorithm_name=?, algorithm_vision=?, algorithm_type = ?, apply_client_scope = ?, algorithm_description = ?, upd_user = ?, upd_time = ?, pythonfile = ?, python_url = ?, model_url = ?, algorithm_state = ? WHERE algorithm_id =? 
+[2020-11-25 15:49:07] -- [DEBUG]: [com.dfundata.fund.schedule.mapper.AlgoMapper.updByAlgoId] -- ==> Parameters: 普通算法(String), v1.0.1(String), 1(String), (String), (String), seldom(String), 2020-11-25(Date), hello1.py(String), /url/hello(String), (String), 0(String), 1(Integer)
+[2020-11-25 15:49:07] -- [DEBUG]: [com.dfundata.fund.schedule.mapper.AlgoMapper.updByAlgoId] -- <==    Updates: 1
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5525961a
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@21fdd2ec
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5cdd49ce
+[2020-11-25 15:49:07] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7446e124
+[2020-11-25 15:49:08] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7c241c03
+[2020-11-25 15:49:08] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@13ef37bf
+[2020-11-25 15:49:08] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7bc3df5
+[2020-11-25 15:49:08] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@64c880b5
+[2020-11-25 15:49:08] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6e1de43b
+[2020-11-25 15:49:08] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:49:37] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:50:07] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:50:37] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:51:07] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:51:37] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:52:07] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:52:37] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:53:07] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:53:37] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:54:08] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:54:38] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:55:08] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:55:38] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:56:08] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:56:38] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:57:08] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:57:38] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:58:08] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:58:38] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:59:08] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 15:59:38] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:00:08] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:00:38] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:01:08] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:01:38] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:02:08] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:02:38] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:03:08] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:03:38] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:04:08] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:04:38] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:05:08] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:05:35] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Gracefully shutting down Sentry async threads.
+[2020-11-25 16:05:35] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Shutdown finished.
+[2020-11-25 16:05:35] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:05:35] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@87a579b: (connection evicted)
+[2020-11-25 16:05:35] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5525961a: (connection evicted)
+[2020-11-25 16:05:35] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@21fdd2ec: (connection evicted)
+[2020-11-25 16:05:35] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5cdd49ce: (connection evicted)
+[2020-11-25 16:05:35] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7446e124: (connection evicted)
+[2020-11-25 16:05:35] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7c241c03: (connection evicted)
+[2020-11-25 16:05:35] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@13ef37bf: (connection evicted)
+[2020-11-25 16:05:35] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7bc3df5: (connection evicted)
+[2020-11-25 16:05:35] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@64c880b5: (connection evicted)
+[2020-11-25 16:05:35] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6e1de43b: (connection evicted)
+[2020-11-25 16:05:35] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+[2020-11-25 16:13:20] -- [DEBUG]: [com.dfund.recom.algo.AlgoApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-11-25 16:13:21] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-11-25 16:13:21] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-11-25 16:23:47] -- [DEBUG]: [com.dfund.recom.algo.AlgoApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-11-25 16:23:49] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-11-25 16:23:49] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-11-25 16:23:49] -- [DEBUG]: [io.sentry.config.Lookup] -- Sentry configuration file not found in filesystem or classpath: 'sentry.properties'.
+[2020-11-25 16:23:49] -- [DEBUG]: [io.sentry.DefaultSentryClientFactory] -- Using an HTTPS connection to Sentry.
+[2020-11-25 16:23:50] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.HttpEventBuilderHelper@31da3d60' to the list of builder helpers.
+[2020-11-25 16:23:50] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.ContextBuilderHelper@3f49e266' to the list of builder helpers.
+[2020-11-25 16:23:50] -- [DEBUG]: [io.sentry.SentryClientFactory] -- Configuring uncaught exception handler.
+[2020-11-25 16:23:56] -- [DEBUG]: [io.sentry.event.EventBuilder$HostnameCache] -- Updating the hostname cache
+[2020-11-25 16:25:29] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Gracefully shutting down Sentry async threads.
+[2020-11-25 16:25:29] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Shutdown finished.
+[2020-11-25 16:25:36] -- [DEBUG]: [com.dfund.recom.algo.AlgoApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-11-25 16:25:37] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-11-25 16:25:37] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-11-25 16:26:42] -- [DEBUG]: [com.dfund.recom.algo.AlgoApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-11-25 16:26:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-11-25 16:26:43] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-11-25 16:29:57] -- [DEBUG]: [com.dfund.recom.algo.AlgoApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-11-25 16:29:58] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-11-25 16:29:58] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-11-25 16:31:11] -- [DEBUG]: [com.dfund.recom.algo.AlgoApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-11-25 16:31:12] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-11-25 16:31:12] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-11-25 16:31:13] -- [DEBUG]: [io.sentry.config.Lookup] -- Sentry configuration file not found in filesystem or classpath: 'sentry.properties'.
+[2020-11-25 16:31:13] -- [DEBUG]: [io.sentry.DefaultSentryClientFactory] -- Using an HTTPS connection to Sentry.
+[2020-11-25 16:31:13] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.HttpEventBuilderHelper@5f9b6ae7' to the list of builder helpers.
+[2020-11-25 16:31:13] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.ContextBuilderHelper@15e0fe05' to the list of builder helpers.
+[2020-11-25 16:31:13] -- [DEBUG]: [io.sentry.SentryClientFactory] -- Configuring uncaught exception handler.
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- HikariPool-1 - configuration:
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- allowPoolSuspension.............false
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- autoCommit......................true
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- catalog.........................none
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- connectionInitSql...............none
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- connectionTestQuery.............none
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- connectionTimeout...............30000
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSource......................none
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSourceClassName.............none
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSourceJNDI..................none
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- dataSourceProperties............{password=<masked>}
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- driverClassName................."com.mysql.cj.jdbc.Driver"
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- healthCheckProperties...........{}
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- healthCheckRegistry.............none
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- idleTimeout.....................600000
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- initializationFailTimeout.......1
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- isolateInternalQueries..........false
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- jdbcUrl.........................jdbc:mysql://localhost:3306/cos?serverTimezone=GMT%2B8&useUnicode=true&characterEncoding=utf8&useSSL=false&allowMultiQueries=true&autoReconnet=true&allowPublicKeyRetrieval=true
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- leakDetectionThreshold..........0
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- maxLifetime.....................1800000
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- maximumPoolSize.................10
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- metricRegistry..................none
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- metricsTrackerFactory...........none
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- minimumIdle.....................10
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- password........................<masked>
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- poolName........................"HikariPool-1"
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- readOnly........................false
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- registerMbeans..................false
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- scheduledExecutor...............none
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- schema..........................none
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- threadFactory...................internal
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- transactionIsolation............default
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- username........................"root"
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- validationTimeout...............5000
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4524718
+[2020-11-25 16:33:06] -- [DEBUG]: [com.dfund.recom.algo.mapper.AlgoMapper.updByAlgoId] -- ==>  Preparing: update algorithm_baseinfo SET algorithm_name=?, algorithm_vision=?, algorithm_type = ?, apply_client_scope = ?, algorithm_description = ?, upd_user = ?, upd_time = ?, pythonfile = ?, python_url = ?, model_url = ?, algorithm_state = ? WHERE algorithm_id =? 
+[2020-11-25 16:33:06] -- [DEBUG]: [com.dfund.recom.algo.mapper.AlgoMapper.updByAlgoId] -- ==> Parameters: 普通算法(String), v1.0.1(String), 1(String), (String), (String), seldom(String), 2020-11-25(Date), hello1.py(String), /url/hello(String), (String), 0(String), 1(Integer)
+[2020-11-25 16:33:06] -- [DEBUG]: [com.dfund.recom.algo.mapper.AlgoMapper.updByAlgoId] -- <==    Updates: 1
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3d8b02d1
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7cb608ea
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4d00355a
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1c99f7a5
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@39d63266
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@18d78f9d
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2ec343e8
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@311ec6d4
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5c5e351a
+[2020-11-25 16:33:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:33:36] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:34:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:34:36] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:35:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:35:36] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:36:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:36:36] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:37:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:37:36] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:38:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:38:36] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:39:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:39:36] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:40:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:40:36] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:41:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:41:36] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:42:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:42:36] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:43:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:43:36] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:44:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:44:36] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:45:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:45:36] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:46:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:46:36] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:47:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:47:36] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:48:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:48:36] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:49:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:49:36] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:50:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:50:36] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:51:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:51:36] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:52:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:52:36] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:53:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:53:36] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:54:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:54:36] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:55:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:55:36] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:56:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:56:36] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:57:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:57:36] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:58:06] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 16:58:59] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 17:08:25] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 17:08:55] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 17:09:47] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 17:10:17] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 18:16:49] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 18:17:19] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 18:22:43] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 18:22:58] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2ec343e8: (connection has passed maxLifetime)
+[2020-11-25 18:22:58] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2a3546e1
+[2020-11-25 18:23:10] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1c99f7a5: (connection has passed maxLifetime)
+[2020-11-25 18:23:10] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1930b60d
+[2020-11-25 18:23:11] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@39d63266: (connection has passed maxLifetime)
+[2020-11-25 18:23:11] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@580dbc36
+[2020-11-25 18:23:13] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 18:23:13] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@4524718: (connection has passed maxLifetime)
+[2020-11-25 18:23:13] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@699f0695
+[2020-11-25 18:24:45] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3d8b02d1: (connection has passed maxLifetime)
+[2020-11-25 18:24:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4180dfcb
+[2020-11-25 18:24:45] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@311ec6d4: (connection has passed maxLifetime)
+[2020-11-25 18:24:45] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@31f71781
+[2020-11-25 18:24:52] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7cb608ea: (connection has passed maxLifetime)
+[2020-11-25 18:24:52] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@18201883
+[2020-11-25 18:25:01] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@4d00355a: (connection has passed maxLifetime)
+[2020-11-25 18:25:01] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2cefe15a
+[2020-11-25 18:25:07] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@18d78f9d: (connection has passed maxLifetime)
+[2020-11-25 18:25:07] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4dd8ae94
+[2020-11-25 18:25:07] -- [DEBUG]: [com.zaxxer.hikari.pool.PoolBase] -- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5c5e351a: (connection has passed maxLifetime)
+[2020-11-25 18:25:07] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@ce5a4af
+[2020-11-25 18:25:08] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 19:05:33] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2020-11-25 19:06:03] -- [DEBUG]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)

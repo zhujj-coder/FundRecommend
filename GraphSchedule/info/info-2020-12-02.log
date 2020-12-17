@@ -1,0 +1,385 @@
+[2020-12-02 09:46:08] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 13071 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 09:46:08] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-02 09:46:09] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-02 09:46:09] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 09:46:09] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 09:46:09] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 09:46:10] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-02 09:46:10] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Pausing ProtocolHandler ["http-nio-8090"]
+[2020-12-02 09:46:10] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Stopping service [Tomcat]
+[2020-12-02 09:46:10] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Stopping ProtocolHandler ["http-nio-8090"]
+[2020-12-02 09:46:10] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Destroying ProtocolHandler ["http-nio-8090"]
+[2020-12-02 09:46:54] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 13094 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 09:46:54] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-02 09:46:55] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-02 09:46:55] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 09:46:55] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 09:46:55] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 09:46:55] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-02 09:46:55] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Pausing ProtocolHandler ["http-nio-8090"]
+[2020-12-02 09:46:55] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Stopping service [Tomcat]
+[2020-12-02 09:46:55] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Stopping ProtocolHandler ["http-nio-8090"]
+[2020-12-02 09:46:55] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Destroying ProtocolHandler ["http-nio-8090"]
+[2020-12-02 09:47:16] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Starting TaskApplication on localhost with PID 13096 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-task/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 09:47:16] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- The following profiles are active: dev
+[2020-12-02 09:47:17] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8787"]
+[2020-12-02 09:47:17] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 09:47:17] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 09:47:17] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 09:47:18] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8787"]
+[2020-12-02 09:47:18] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Started TaskApplication in 2.188 seconds (JVM running for 3.083)
+[2020-12-02 09:51:45] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-02 09:51:45] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Starting...
+[2020-12-02 09:51:45] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Start completed.
+[2020-12-02 09:52:57] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown initiated...
+[2020-12-02 09:52:57] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown completed.
+[2020-12-02 09:53:01] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Starting TaskApplication on localhost with PID 13154 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-task/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 09:53:01] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- The following profiles are active: dev
+[2020-12-02 09:53:02] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8787"]
+[2020-12-02 09:53:02] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 09:53:02] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 09:53:02] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 09:53:03] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8787"]
+[2020-12-02 09:53:03] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Started TaskApplication in 2.024 seconds (JVM running for 2.602)
+[2020-12-02 09:53:10] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-02 09:53:10] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Starting...
+[2020-12-02 09:53:10] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Start completed.
+[2020-12-02 10:00:25] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown initiated...
+[2020-12-02 10:00:25] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown completed.
+[2020-12-02 10:00:29] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Starting TaskApplication on localhost with PID 13191 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-task/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 10:00:29] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- The following profiles are active: dev
+[2020-12-02 10:00:30] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8787"]
+[2020-12-02 10:00:30] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 10:00:30] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 10:00:30] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 10:00:31] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8787"]
+[2020-12-02 10:00:31] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Started TaskApplication in 2.608 seconds (JVM running for 3.476)
+[2020-12-02 10:07:00] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-02 10:08:09] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Starting TaskApplication on localhost with PID 13229 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-task/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 10:08:09] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- The following profiles are active: dev
+[2020-12-02 10:08:10] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8787"]
+[2020-12-02 10:08:10] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 10:08:10] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 10:08:10] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 10:08:10] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8787"]
+[2020-12-02 10:08:11] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Started TaskApplication in 2.139 seconds (JVM running for 2.806)
+[2020-12-02 10:12:34] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-02 10:12:56] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Starting TaskApplication on localhost with PID 13266 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-task/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 10:12:56] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- The following profiles are active: dev
+[2020-12-02 10:12:57] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8787"]
+[2020-12-02 10:12:57] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 10:12:57] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 10:12:57] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 10:12:57] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8787"]
+[2020-12-02 10:12:58] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Started TaskApplication in 2.042 seconds (JVM running for 2.672)
+[2020-12-02 10:13:12] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-02 10:16:20] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Starting TaskApplication on localhost with PID 13279 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-task/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 10:16:20] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- The following profiles are active: dev
+[2020-12-02 10:16:21] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8787"]
+[2020-12-02 10:16:21] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 10:16:21] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 10:16:21] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 10:16:22] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8787"]
+[2020-12-02 10:16:22] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Started TaskApplication in 2.175 seconds (JVM running for 2.802)
+[2020-12-02 10:16:28] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-02 10:16:28] -- [INFO ]: [com.dfund.recom.task.web.TaskController] -- 任务增加 taskInfo {} TaskInfo{taskId='null', taskName='null', taskType='null', triggerType='null', taskSdate=null, taskEdate=null, istdate=null, triggerTime=null, clientScope='null', rejectClient='null', recomNumUp=null, seriesCode=null, seriesName='null', algorithmVision='null', algorithmName='null', algorithmId='null', creater='null', createTime=null, taskDescription='null', updUser='null', updTime='null', initDate='null', isDel='null'}
+[2020-12-02 10:18:00] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Starting TaskApplication on localhost with PID 13300 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-task/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 10:18:00] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- The following profiles are active: dev
+[2020-12-02 10:18:01] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8787"]
+[2020-12-02 10:18:01] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 10:18:01] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 10:18:01] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 10:18:01] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8787"]
+[2020-12-02 10:18:01] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Started TaskApplication in 2.113 seconds (JVM running for 2.744)
+[2020-12-02 10:18:06] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-02 10:18:30] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Starting TaskApplication on localhost with PID 13314 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-task/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 10:18:30] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- The following profiles are active: dev
+[2020-12-02 10:18:31] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8787"]
+[2020-12-02 10:18:31] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 10:18:31] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 10:18:31] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 10:18:32] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8787"]
+[2020-12-02 10:18:32] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Started TaskApplication in 2.17 seconds (JVM running for 2.942)
+[2020-12-02 10:18:41] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-02 10:22:02] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Starting TaskApplication on localhost with PID 13328 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-task/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 10:22:02] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- The following profiles are active: dev
+[2020-12-02 10:22:03] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8787"]
+[2020-12-02 10:22:03] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 10:22:03] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 10:22:04] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 10:22:04] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8787"]
+[2020-12-02 10:22:04] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Started TaskApplication in 2.19 seconds (JVM running for 2.834)
+[2020-12-02 10:22:08] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-02 10:24:21] -- [INFO ]: [com.dfund.recom.task.web.TaskController] -- 任务增加 taskInfo {} TaskInfo{taskId='null', taskName='taskName', taskType='1', triggerType='null', taskSdate=Thu Dec 03 08:00:00 CST 2020, taskEdate=null, istdate=N, triggerTime=0:00, clientScope='56781|456782|920727', rejectClient='56781', recomNumUp=5000, seriesCode=null, seriesName='null', algorithmVision='null', algorithmName='苹果算法v0.0.1', algorithmId='null', creater='null', createTime=null, taskDescription='这是一个任务的描述', updUser='null', updTime='null', initDate='null', isDel='null'}
+[2020-12-02 10:25:42] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Starting TaskApplication on localhost with PID 13343 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-task/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 10:25:42] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- The following profiles are active: dev
+[2020-12-02 10:25:44] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8787"]
+[2020-12-02 10:25:44] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 10:25:44] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 10:25:44] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 10:25:44] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8787"]
+[2020-12-02 10:25:44] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Started TaskApplication in 2.48 seconds (JVM running for 3.137)
+[2020-12-02 10:25:50] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-02 10:25:50] -- [INFO ]: [com.dfund.recom.task.web.TaskController] -- 任务配置增加 taskInfo {} TaskInfo{taskId='null', taskName='taskName', taskType='1', triggerType='null', taskSdate=Thu Dec 03 08:00:00 CST 2020, taskEdate=null, istdate=N, triggerTime=0:00, clientScope='56781|456782|920727', rejectClient='56781', recomNumUp=5000, seriesCode=null, seriesName='null', algorithmVision='null', algorithmName='苹果算法v0.0.1', algorithmId='null', creater='null', createTime=null, taskDescription='这是一个任务的描述', updUser='null', updTime='null', initDate='null', isDel='null'}
+[2020-12-02 10:26:58] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Starting TaskApplication on localhost with PID 13354 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-task/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 10:26:58] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- The following profiles are active: dev
+[2020-12-02 10:26:59] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8787"]
+[2020-12-02 10:26:59] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 10:26:59] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 10:26:59] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 10:27:00] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8787"]
+[2020-12-02 10:27:00] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Started TaskApplication in 2.558 seconds (JVM running for 3.324)
+[2020-12-02 10:27:34] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-02 10:27:35] -- [INFO ]: [com.dfund.recom.task.web.TaskController] -- 任务配置增加 taskInfo {} TaskInfo{taskId='null', taskName='象红除派社或', taskType='0', triggerType='null', taskSdate=Tue Jun 13 09:00:00 CDT 1989, taskEdate=Thu May 09 08:00:00 CST 2002, istdate=2005-03-08, triggerTime=12:00, clientScope='cust001|cust002|cust003', rejectClient='cust002', recomNumUp=6, seriesCode=null, seriesName='null', algorithmVision='null', algorithmName='状算接等', algorithmId='null', creater='null', createTime=null, taskDescription='nisi', updUser='null', updTime='null', initDate='null', isDel='null'}
+[2020-12-02 10:28:57] -- [INFO ]: [com.dfund.recom.task.web.TaskController] -- 任务配置增加 taskInfo {} TaskInfo{taskId='null', taskName='象红除派社或', taskType='0', triggerType='null', taskSdate=Tue Jun 13 09:00:00 CDT 1989, taskEdate=Thu May 09 08:00:00 CST 2002, istdate=2005-03-08, triggerTime=12:00, clientScope='cust001|cust002|cust003', rejectClient='cust002', recomNumUp=6, seriesCode=null, seriesName='null', algorithmVision='null', algorithmName='状算接等', algorithmId='null', creater='null', createTime=null, taskDescription='nisi', updUser='null', updTime='null', initDate='null', isDel='null'}
+[2020-12-02 10:30:45] -- [INFO ]: [com.dfund.recom.task.web.TaskController] -- 任务配置增加 taskInfo {} TaskInfo{taskId='null', taskName='象红除派社或', taskType='0', triggerType='null', taskSdate=Tue Jun 13 09:00:00 CDT 1989, taskEdate=Thu May 09 08:00:00 CST 2002, istdate=2005-03-08, triggerTime=12:00, clientScope='cust001|cust002|cust003', rejectClient='cust002', recomNumUp=6, seriesCode=null, seriesName='null', algorithmVision='null', algorithmName='状算接等', algorithmId='null', creater='null', createTime=null, taskDescription='nisi', updUser='null', updTime='null', initDate='null', isDel='null'}
+[2020-12-02 10:31:25] -- [INFO ]: [com.dfund.recom.task.web.TaskController] -- 任务配置增加 taskInfo {} TaskInfo{taskId='null', taskName='象红除派社或', taskType='0', triggerType='null', taskSdate=Tue Jun 13 09:00:00 CDT 1989, taskEdate=Thu May 09 08:00:00 CST 2002, istdate=2005-03-08, triggerTime=12:00, clientScope='cust001|cust002|cust003', rejectClient='cust002', recomNumUp=6, seriesCode=null, seriesName='null', algorithmVision='null', algorithmName='状算接等', algorithmId='null', creater='null', createTime=null, taskDescription='nisi', updUser='null', updTime='null', initDate='null', isDel='null'}
+[2020-12-02 11:07:27] -- [INFO ]: [com.dfund.recom.task.web.TaskController] -- 任务配置增加 taskInfo {} TaskInfo{taskId='null', taskName='集他验被着出', taskType='0', triggerType='null', taskSdate=Sat Oct 01 08:00:00 CST 2016, taskEdate=Fri Jul 14 08:00:00 CST 2006, istdate=Y, triggerTime=12:00, clientScope='cust001|cust002|cust003', rejectClient='cust002', recomNumUp=57, seriesCode=null, seriesName='null', algorithmVision='v0.0.1', algorithmName='天二断府', algorithmId='9', creater='null', createTime=null, taskDescription='velit dolor Duis', updUser='null', updTime='null', initDate='null', isDel='null'}
+[2020-12-02 11:09:21] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Starting TaskApplication on localhost with PID 13512 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-task/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 11:09:21] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- The following profiles are active: dev
+[2020-12-02 11:09:22] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8787"]
+[2020-12-02 11:09:22] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 11:09:22] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 11:09:22] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 11:09:23] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8787"]
+[2020-12-02 11:09:23] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Started TaskApplication in 2.247 seconds (JVM running for 2.862)
+[2020-12-02 11:09:25] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-02 11:09:25] -- [INFO ]: [com.dfund.recom.task.web.TaskController] -- 任务配置增加 taskInfo {} TaskInfo{taskId='null', taskName='集他验被着出', taskType='0', triggerType='null', taskSdate=Sat Oct 01 08:00:00 CST 2016, taskEdate=Fri Jul 14 08:00:00 CST 2006, istdate=Y, triggerTime=12:00, clientScope='cust001|cust002|cust003', rejectClient='cust002', recomNumUp=57, seriesCode=null, seriesName='null', algorithmVision='v0.0.1', algorithmName='天二断府', algorithmId='9', creater='null', createTime=null, taskDescription='velit dolor Duis', updUser='null', updTime='null', initDate='null', isDel='null'}
+[2020-12-02 11:11:32] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Starting TaskApplication on localhost with PID 13533 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-task/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 11:11:32] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- The following profiles are active: dev
+[2020-12-02 11:11:34] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8787"]
+[2020-12-02 11:11:34] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 11:11:34] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 11:11:34] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 11:11:34] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8787"]
+[2020-12-02 11:11:34] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Started TaskApplication in 2.44 seconds (JVM running for 3.059)
+[2020-12-02 11:12:38] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-02 11:12:38] -- [INFO ]: [com.dfund.recom.task.web.TaskController] -- 任务配置增加 taskInfo {} TaskInfo{taskId='null', taskName='集他验被着出', taskType='0', triggerType='null', taskSdate=Sat Oct 01 08:00:00 CST 2016, taskEdate=Fri Jul 14 08:00:00 CST 2006, istdate=Y, triggerTime=12:00, clientScope='cust001|cust002|cust003', rejectClient='cust002', recomNumUp=57, seriesCode=null, seriesName='null', algorithmVision='v0.0.1', algorithmName='天二断府', algorithmId='9', creater='null', createTime=null, taskDescription='velit dolor Duis', updUser='null', updTime='null', initDate='null', isDel='null'}
+[2020-12-02 11:13:58] -- [INFO ]: [com.dfund.recom.task.web.TaskController] -- 任务配置增加 taskInfo {} TaskInfo{taskId='null', taskName='集他验被着出', taskType='0', triggerType='null', taskSdate=Sat Oct 01 08:00:00 CST 2016, taskEdate=Fri Jul 14 08:00:00 CST 2006, istdate=Y, triggerTime=12:00, clientScope='cust001|cust002|cust003', rejectClient='cust002', recomNumUp=57, seriesCode=null, seriesName='null', algorithmVision='v0.0.1', algorithmName='天二断府', algorithmId='9', creater='null', createTime=null, taskDescription='velit dolor Duis', updUser='null', updTime='null', initDate='null', isDel='null'}
+[2020-12-02 11:15:54] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Starting TaskApplication on localhost with PID 13562 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-task/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 11:15:54] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- The following profiles are active: dev
+[2020-12-02 11:15:55] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8787"]
+[2020-12-02 11:15:55] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 11:15:55] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 11:15:55] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 11:15:56] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8787"]
+[2020-12-02 11:15:56] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Started TaskApplication in 2.695 seconds (JVM running for 3.42)
+[2020-12-02 11:16:12] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-02 11:16:12] -- [INFO ]: [com.dfund.recom.task.web.TaskController] -- 任务配置增加 taskInfo {} TaskInfo{taskId='null', taskName='集他验被着出', taskType='0', triggerType='null', taskSdate=Sat Oct 01 08:00:00 CST 2016, taskEdate=Fri Jul 14 08:00:00 CST 2006, istdate=Y, triggerTime=12:00, clientScope='cust001|cust002|cust003', rejectClient='cust002', recomNumUp=57, seriesCode=null, seriesName='null', algorithmVision='v0.0.1', algorithmName='天二断府', algorithmId='9', creater='null', createTime=null, taskDescription='velit dolor Duis', updUser='null', updTime='null', initDate='null', isDel='null'}
+[2020-12-02 11:17:13] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Starting TaskApplication on localhost with PID 13573 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-task/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 11:17:13] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- The following profiles are active: dev
+[2020-12-02 11:17:14] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8787"]
+[2020-12-02 11:17:14] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 11:17:14] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 11:17:15] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 11:17:15] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8787"]
+[2020-12-02 11:17:15] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Started TaskApplication in 2.39 seconds (JVM running for 3.084)
+[2020-12-02 11:17:47] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Starting TaskApplication on localhost with PID 13583 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-task/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 11:17:47] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- The following profiles are active: dev
+[2020-12-02 11:17:48] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8787"]
+[2020-12-02 11:17:48] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 11:17:48] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 11:17:48] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 11:17:49] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8787"]
+[2020-12-02 11:17:49] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Started TaskApplication in 2.242 seconds (JVM running for 2.983)
+[2020-12-02 11:17:58] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-02 11:17:58] -- [INFO ]: [com.dfund.recom.task.web.TaskController] -- 任务配置增加 taskInfo {} TaskInfo{taskId='null', taskName='集他验被着出', taskType='0', triggerType='null', taskSdate=Sat Oct 01 08:00:00 CST 2016, taskEdate=Fri Jul 14 08:00:00 CST 2006, istdate=Y, triggerTime=12:00, clientScope='cust001|cust002|cust003', rejectClient='cust002', recomNumUp=57, seriesCode=null, seriesName='null', algorithmVision='v0.0.1', algorithmName='天二断府', algorithmId='9', creater='null', createTime=null, taskDescription='velit dolor Duis', updUser='null', updTime='null', initDate='null', isDel='null'}
+[2020-12-02 11:17:58] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Starting...
+[2020-12-02 11:17:58] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Start completed.
+[2020-12-02 11:24:23] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown initiated...
+[2020-12-02 11:24:23] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown completed.
+[2020-12-02 11:24:26] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Starting TaskApplication on localhost with PID 13618 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-task/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 11:24:26] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- The following profiles are active: dev
+[2020-12-02 11:24:27] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8787"]
+[2020-12-02 11:24:27] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 11:24:27] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 11:24:27] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 11:24:28] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8787"]
+[2020-12-02 11:24:28] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Started TaskApplication in 2.188 seconds (JVM running for 2.803)
+[2020-12-02 11:24:32] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-02 11:24:32] -- [INFO ]: [com.dfund.recom.task.web.TaskController] -- 任务配置增加 taskInfo {} TaskInfo{taskId='null', taskName='集他验被着出', taskType='0', triggerType='null', taskSdate=Sat Oct 01 08:00:00 CST 2016, taskEdate=Fri Jul 14 08:00:00 CST 2006, istdate=Y, triggerTime=12:00, clientScope='cust001|cust002|cust003', rejectClient='cust002', recomNumUp=57, seriesCode=null, seriesName='null', algorithmVision='v0.0.1', algorithmName='天二断府', algorithmId='9', creater='null', createTime=null, taskDescription='velit dolor Duis', updUser='null', updTime='null', initDate='null', isDel='null'}
+[2020-12-02 11:24:32] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Starting...
+[2020-12-02 11:24:33] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Start completed.
+[2020-12-02 11:25:01] -- [INFO ]: [com.dfund.recom.task.web.TaskController] -- 任务配置增加 taskInfo {} TaskInfo{taskId='null', taskName='集他验被着出', taskType='0', triggerType='null', taskSdate=Sat Oct 01 08:00:00 CST 2016, taskEdate=Fri Jul 14 08:00:00 CST 2006, istdate=Y, triggerTime=12:00, clientScope='cust001|cust002|cust003', rejectClient='cust002', recomNumUp=57, seriesCode=null, seriesName='null', algorithmVision='v0.0.1', algorithmName='天二断府', algorithmId='9', creater='null', createTime=null, taskDescription='velit dolor Duis', updUser='null', updTime='null', initDate='null', isDel='null'}
+[2020-12-02 11:25:04] -- [INFO ]: [com.dfund.recom.task.web.TaskController] -- 任务配置增加 taskInfo {} TaskInfo{taskId='null', taskName='集他验被着出', taskType='0', triggerType='null', taskSdate=Sat Oct 01 08:00:00 CST 2016, taskEdate=Fri Jul 14 08:00:00 CST 2006, istdate=Y, triggerTime=12:00, clientScope='cust001|cust002|cust003', rejectClient='cust002', recomNumUp=57, seriesCode=null, seriesName='null', algorithmVision='v0.0.1', algorithmName='天二断府', algorithmId='9', creater='null', createTime=null, taskDescription='velit dolor Duis', updUser='null', updTime='null', initDate='null', isDel='null'}
+[2020-12-02 11:25:13] -- [INFO ]: [com.dfund.recom.task.web.TaskController] -- 任务配置增加 taskInfo {} TaskInfo{taskId='null', taskName='满被那有听', taskType='0', triggerType='null', taskSdate=Fri Jun 10 08:00:00 CST 2005, taskEdate=Sat Jul 07 09:00:00 CDT 1990, istdate=0, triggerTime=12:00, clientScope='cust001|cust002|cust003', rejectClient='cust002', recomNumUp=67, seriesCode=null, seriesName='null', algorithmVision='v0.0.1', algorithmName='王原京些意', algorithmId='9', creater='null', createTime=null, taskDescription='consectetur esse sit cillum ipsum', updUser='null', updTime='null', initDate='null', isDel='null'}
+[2020-12-02 14:08:44] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown initiated...
+[2020-12-02 14:08:44] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown completed.
+[2020-12-02 14:08:47] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Starting TaskApplication on localhost with PID 13909 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-task/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 14:08:47] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- The following profiles are active: dev
+[2020-12-02 14:08:48] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8787"]
+[2020-12-02 14:08:48] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 14:08:48] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 14:08:48] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 14:08:49] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8787"]
+[2020-12-02 14:08:49] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Started TaskApplication in 2.293 seconds (JVM running for 2.981)
+[2020-12-02 14:08:53] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-02 14:08:54] -- [INFO ]: [com.dfund.recom.task.web.TaskController] -- 任务配置增加 taskInfo {} TaskInfo{taskId='null', taskName='满被那有听', taskType='0', triggerType='null', taskSdate=Fri Jun 10 08:00:00 CST 2005, taskEdate=Sat Jul 07 09:00:00 CDT 1990, istdate=0, triggerTime=12:00, clientScope='cust001|cust002|cust003', rejectClient='cust002', recomNumUp=67, seriesCode=null, seriesName='null', algorithmVision='v0.0.1', algorithmName='王原京些意', algorithmId='9', creater='null', createTime=null, taskDescription='consectetur esse sit cillum ipsum', updUser='null', updTime='null', initDate='null', isDel='null'}
+[2020-12-02 14:08:54] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Starting...
+[2020-12-02 14:08:54] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Start completed.
+[2020-12-02 14:12:26] -- [INFO ]: [com.dfund.recom.task.web.TaskController] -- 任务配置增加 taskInfo {} TaskInfo{taskId='null', taskName='满被那有听', taskType='0', triggerType='null', taskSdate=Fri Jun 10 08:00:00 CST 2005, taskEdate=Sat Jul 07 09:00:00 CDT 1990, istdate=0, triggerTime=12:00, clientScope='cust001|cust002|cust003', rejectClient='cust002', recomNumUp=67, seriesCode=null, seriesName='null', algorithmVision='v0.0.1', algorithmName='王原京些意', algorithmId='9', creater='null', createTime=null, taskDescription='consectetur esse sit cillum ipsum', updUser='null', updTime='null', initDate='null', isDel='null'}
+[2020-12-02 14:12:38] -- [INFO ]: [com.dfund.recom.task.web.TaskController] -- 任务配置增加 taskInfo {} TaskInfo{taskId='null', taskName='团从领身', taskType='id ad tempor', triggerType='ex', taskSdate=Wed Apr 01 08:00:00 CST 1987, taskEdate=Sat Apr 28 08:00:00 CST 2012, istdate=1972-07-26, triggerTime=2011-10-28 15:54:05, clientScope='ea enim sunt reprehenderit', rejectClient='incididunt dolore qui', recomNumUp=19, seriesCode=null, seriesName='null', algorithmVision='labore', algorithmName='建小至易交术', algorithmId='49', creater='eu pariatur in', createTime=null, taskDescription='aliqua culpa', updUser='null', updTime='null', initDate='null', isDel='null'}
+[2020-12-02 14:14:32] -- [INFO ]: [com.dfund.recom.task.web.TaskController] -- 任务配置增加 taskInfo {} TaskInfo{taskId='null', taskName='团从领身', taskType='id ad tempor', triggerType='ex', taskSdate=Wed Apr 01 08:00:00 CST 1987, taskEdate=Sat Apr 28 08:00:00 CST 2012, istdate=1972-07-26, triggerTime=2011-10-28 15:54:05, clientScope='ea enim sunt reprehenderit', rejectClient='incididunt dolore qui', recomNumUp=19, seriesCode=null, seriesName='null', algorithmVision='labore', algorithmName='建小至易交术', algorithmId='49', creater='eu pariatur in', createTime=null, taskDescription='aliqua culpa', updUser='null', updTime='null', initDate='null', isDel='null'}
+[2020-12-02 14:15:05] -- [INFO ]: [com.dfund.recom.task.web.TaskController] -- 任务配置增加 taskInfo {} TaskInfo{taskId='null', taskName='里任目', taskType='0', triggerType='0', taskSdate=Thu Mar 18 08:00:00 CST 1971, taskEdate=Sat Jan 04 08:00:00 CST 2020, istdate=0, triggerTime=12:00, clientScope='8@X6', rejectClient='nulla commodo', recomNumUp=5000, seriesCode=null, seriesName='null', algorithmVision='ullamco pariatur nostrud et sint', algorithmName='决商线七然', algorithmId='30', creater='Ut reprehenderit do', createTime=null, taskDescription='id', updUser='null', updTime='null', initDate='null', isDel='null'}
+[2020-12-02 14:15:23] -- [INFO ]: [com.dfund.recom.task.web.TaskController] -- 任务配置增加 taskInfo {} TaskInfo{taskId='null', taskName='说市任年', taskType='0', triggerType='0', taskSdate=Mon Mar 05 08:00:00 CST 1979, taskEdate=Sun Feb 06 08:00:00 CST 1972, istdate=0, triggerTime=12:00, clientScope='kg7f', rejectClient='sed ullamco', recomNumUp=5000, seriesCode=null, seriesName='null', algorithmVision='deserunt irure occaecat nulla qui', algorithmName='易满或全', algorithmId='93', creater='occaecat aliquip minim', createTime=null, taskDescription='ut irure est dolore aliqua', updUser='null', updTime='null', initDate='null', isDel='null'}
+[2020-12-02 14:15:28] -- [INFO ]: [com.dfund.recom.task.web.TaskController] -- 任务配置增加 taskInfo {} TaskInfo{taskId='null', taskName='流育直华天美', taskType='0', triggerType='0', taskSdate=Thu May 06 08:00:00 CST 1999, taskEdate=Thu Mar 01 08:00:00 CST 2018, istdate=0, triggerTime=12:00, clientScope='LkQf)s3', rejectClient='tempor', recomNumUp=5000, seriesCode=null, seriesName='null', algorithmVision='Excepteur Lorem eu', algorithmName='布权劳无花布电', algorithmId='54', creater='in', createTime=null, taskDescription='sint tempor', updUser='null', updTime='null', initDate='null', isDel='null'}
+[2020-12-02 14:15:33] -- [INFO ]: [com.dfund.recom.task.web.TaskController] -- 任务配置增加 taskInfo {} TaskInfo{taskId='null', taskName='养年京', taskType='0', triggerType='0', taskSdate=Wed Nov 10 08:00:00 CST 1999, taskEdate=Tue Jun 21 08:00:00 CST 2005, istdate=0, triggerTime=12:00, clientScope='ouM3z', rejectClient='id', recomNumUp=5000, seriesCode=null, seriesName='null', algorithmVision='ut in ut', algorithmName='除研过教这二始', algorithmId='32', creater='voluptate do velit deserunt', createTime=null, taskDescription='in ut cillum Excepteur', updUser='null', updTime='null', initDate='null', isDel='null'}
+[2020-12-02 14:21:02] -- [INFO ]: [com.dfund.recom.task.web.TaskController] -- 任务列表条件查询，pageNum 1,pageSize 3,taskName null,taskType null,scope null ,algorithmName null
+[2020-12-02 14:39:18] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown initiated...
+[2020-12-02 14:39:18] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown completed.
+[2020-12-02 14:39:21] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Starting TaskApplication on localhost with PID 14063 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-task/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 14:39:21] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- The following profiles are active: dev
+[2020-12-02 14:39:22] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8787"]
+[2020-12-02 14:39:22] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 14:39:22] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 14:39:22] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 14:39:23] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8787"]
+[2020-12-02 14:39:23] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Started TaskApplication in 2.053 seconds (JVM running for 2.667)
+[2020-12-02 14:41:25] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Starting TaskApplication on localhost with PID 14079 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-task/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 14:41:25] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- The following profiles are active: dev
+[2020-12-02 14:41:26] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8787"]
+[2020-12-02 14:41:26] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 14:41:26] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 14:41:26] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 14:41:27] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8787"]
+[2020-12-02 14:41:27] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Started TaskApplication in 2.346 seconds (JVM running for 3.3)
+[2020-12-02 14:47:31] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-02 14:47:31] -- [INFO ]: [com.dfund.recom.task.web.TaskController] -- 任务配置修改 taskInfo {} TaskInfo{taskId='null', taskName='器全型达人外收', taskType='1', triggerType='1', taskSdate=Sat Jun 22 08:00:00 CST 2019, taskEdate=Sat Mar 25 08:00:00 CST 2017, istdate=1, triggerTime=2015-07-29 02:23:53, clientScope='ullamco pariatur culpa id enim', rejectClient='consectetur fugiat in in', recomNumUp=23, seriesCode=null, seriesName='null', algorithmVision='in ex', algorithmName='斗题亲', algorithmId='46', creater='null', createTime=null, taskDescription='voluptate ipsum dolore dolor eiusmod', updUser='apple', updTime='null', initDate='null', isDel='null'}
+[2020-12-02 14:47:31] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Starting...
+[2020-12-02 14:47:31] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Start completed.
+[2020-12-02 14:50:43] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown initiated...
+[2020-12-02 14:50:43] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown completed.
+[2020-12-02 14:50:45] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Starting TaskApplication on localhost with PID 14116 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-task/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 14:50:45] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- The following profiles are active: dev
+[2020-12-02 14:50:46] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8787"]
+[2020-12-02 14:50:46] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 14:50:46] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 14:50:46] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 14:50:47] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8787"]
+[2020-12-02 14:50:47] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Started TaskApplication in 2.058 seconds (JVM running for 2.664)
+[2020-12-02 14:51:09] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-02 14:51:09] -- [INFO ]: [com.dfund.recom.task.web.TaskController] -- 任务配置修改 taskInfo {} TaskInfo{taskId='null', taskName='器全型达人外收', taskType='1', triggerType='1', taskSdate=Sat Jun 22 08:00:00 CST 2019, taskEdate=Sat Mar 25 08:00:00 CST 2017, istdate=1, triggerTime=2015-07-29 02:23:53, clientScope='ullamco pariatur culpa id enim', rejectClient='consectetur fugiat in in', recomNumUp=23, seriesCode=null, seriesName='null', algorithmVision='in ex', algorithmName='斗题亲', algorithmId='46', creater='null', createTime=null, taskDescription='voluptate ipsum dolore dolor eiusmod', updUser='apple', updTime='null', initDate='null', isDel='null'}
+[2020-12-02 14:51:18] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Starting...
+[2020-12-02 14:51:18] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Start completed.
+[2020-12-02 14:51:27] -- [INFO ]: [com.dfund.recom.task.web.TaskController] -- 任务配置修改 taskInfo {} TaskInfo{taskId='3', taskName='设发展设识', taskType='1', triggerType='1', taskSdate=Sun Dec 31 08:00:00 CST 1972, taskEdate=Mon Aug 27 08:00:00 CST 2012, istdate=1, triggerTime=1982-07-08 13:22:11, clientScope='ut dolor non', rejectClient='in aute irure labore consectetur', recomNumUp=54, seriesCode=null, seriesName='null', algorithmVision='ea sed', algorithmName='来记江级长', algorithmId='95', creater='null', createTime=null, taskDescription='aliqua sint voluptate nisi dolore', updUser='apple', updTime='null', initDate='null', isDel='null'}
+[2020-12-02 14:52:24] -- [INFO ]: [com.dfund.recom.task.web.TaskController] -- 任务配置修改 taskInfo {} TaskInfo{taskId='1', taskName='不于道史是', taskType='1', triggerType='1', taskSdate=Sun Aug 06 08:00:00 CST 1972, taskEdate=Fri Mar 04 08:00:00 CST 2005, istdate=1, triggerTime=6:00, clientScope='dolore nisi', rejectClient='eiusmod proident aliquip', recomNumUp=32, seriesCode=null, seriesName='null', algorithmVision='est', algorithmName='第体用价却具所', algorithmId='61', creater='null', createTime=null, taskDescription='nostrud dolor aliqua non labore', updUser='apple', updTime='null', initDate='null', isDel='null'}
+[2020-12-02 14:53:34] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown initiated...
+[2020-12-02 14:53:34] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown completed.
+[2020-12-02 14:53:36] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Starting TaskApplication on localhost with PID 14134 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-task/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 14:53:36] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- The following profiles are active: dev
+[2020-12-02 14:53:38] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8787"]
+[2020-12-02 14:53:38] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 14:53:38] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 14:53:38] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 14:53:38] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8787"]
+[2020-12-02 14:53:38] -- [INFO ]: [com.dfund.recom.task.TaskApplication] -- Started TaskApplication in 2.547 seconds (JVM running for 3.292)
+[2020-12-02 17:04:23] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 15269 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 17:04:23] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-02 17:04:24] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-02 17:04:24] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 17:04:24] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 17:04:24] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 17:04:25] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-02 17:04:25] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.911 seconds (JVM running for 3.668)
+[2020-12-02 17:12:20] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-02 17:12:20] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-02 17:12:38] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-02 17:13:39] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 15308 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 17:13:39] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-02 17:13:40] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-02 17:13:40] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 17:13:40] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 17:13:40] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 17:13:41] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-02 17:13:41] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.024 seconds (JVM running for 2.688)
+[2020-12-02 17:13:47] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-02 17:13:47] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-02 17:14:24] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 15316 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 17:14:24] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-02 17:14:25] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-02 17:14:25] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 17:14:25] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 17:14:25] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 17:14:25] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Stopping service [Tomcat]
+[2020-12-02 17:15:44] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 15327 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 17:15:44] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-02 17:15:45] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-02 17:15:45] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 17:15:45] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 17:15:45] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 17:15:45] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-02 17:15:45] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 1.925 seconds (JVM running for 2.503)
+[2020-12-02 17:15:49] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-02 17:15:49] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-02 17:16:21] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 15333 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 17:16:21] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-02 17:16:22] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-02 17:16:22] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 17:16:22] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 17:16:22] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 17:16:23] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Stopping service [Tomcat]
+[2020-12-02 17:17:02] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 15336 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 17:17:02] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-02 17:17:03] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-02 17:17:03] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 17:17:03] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 17:17:03] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 17:17:03] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Stopping service [Tomcat]
+[2020-12-02 17:17:51] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 15342 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 17:17:51] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-02 17:17:52] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-02 17:17:52] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 17:17:52] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 17:17:52] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 17:17:53] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-02 17:17:53] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.213 seconds (JVM running for 2.782)
+[2020-12-02 17:17:57] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-02 17:17:57] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-02 18:11:57] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 15525 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 18:11:57] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-02 18:11:58] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-02 18:11:58] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 18:11:58] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 18:11:58] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 18:11:58] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-02 18:11:58] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.28 seconds (JVM running for 3.093)
+[2020-12-02 18:12:16] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-02 18:12:16] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-02 18:13:06] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 15535 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 18:13:06] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-02 18:13:07] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-02 18:13:07] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 18:13:07] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 18:13:07] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 18:13:08] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-02 18:13:08] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.235 seconds (JVM running for 2.837)
+[2020-12-02 18:13:13] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-02 18:13:13] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-02 18:19:09] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 15582 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 18:19:09] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-02 18:19:10] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-02 18:19:10] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 18:19:10] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 18:19:10] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 18:19:11] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-02 18:19:11] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.052 seconds (JVM running for 2.713)
+[2020-12-02 18:19:33] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 15586 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 18:19:33] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-02 18:19:34] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-02 18:19:34] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 18:19:34] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 18:19:34] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 18:19:35] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-02 18:19:35] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.131 seconds (JVM running for 2.791)
+[2020-12-02 18:20:01] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-02 18:20:01] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-02 18:20:50] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 15593 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-02 18:20:50] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-02 18:20:51] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-02 18:20:51] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-02 18:20:51] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-02 18:20:51] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-02 18:20:52] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-02 18:20:52] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.193 seconds (JVM running for 2.859)
+[2020-12-02 18:20:56] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-02 18:20:56] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

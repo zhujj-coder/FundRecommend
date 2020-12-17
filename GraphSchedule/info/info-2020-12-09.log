@@ -1,0 +1,702 @@
+[2020-12-09 13:48:37] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 32441 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 13:48:37] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 13:48:38] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 13:48:38] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 13:48:38] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 13:48:39] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 13:48:39] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 13:48:39] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.753 seconds (JVM running for 3.472)
+[2020-12-09 13:49:59] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 32454 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 13:49:59] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 13:50:00] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 13:50:00] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 13:50:00] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 13:50:00] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 13:50:01] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 13:50:01] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.083 seconds (JVM running for 2.718)
+[2020-12-09 14:01:20] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 32545 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 14:01:20] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 14:01:21] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 14:01:21] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 14:01:21] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 14:01:21] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 14:01:22] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 14:01:22] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.323 seconds (JVM running for 3.02)
+[2020-12-09 14:01:59] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 14:01:59] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 14:02:11] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 14:02:37] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 14:05:09] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 32562 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 14:05:09] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 14:05:10] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 14:05:10] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 14:05:10] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 14:05:10] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 14:05:11] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 14:05:11] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.06 seconds (JVM running for 2.672)
+[2020-12-09 14:05:16] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 14:05:16] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 14:09:31] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 32578 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 14:09:31] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 14:09:32] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 14:09:32] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 14:09:32] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 14:09:32] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 14:09:32] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 14:09:32] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.097 seconds (JVM running for 2.716)
+[2020-12-09 14:11:17] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 14:11:17] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 14:11:52] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 14:13:33] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 32591 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 14:13:33] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 14:13:34] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 14:13:34] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 14:13:34] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 14:13:34] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 14:13:35] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 14:13:35] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.009 seconds (JVM running for 2.623)
+[2020-12-09 14:13:38] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 14:13:38] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 14:15:09] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 14:15:43] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 32604 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 14:15:43] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 14:15:44] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 14:15:44] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 14:15:44] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 14:15:44] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 14:15:45] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 14:15:45] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.05 seconds (JVM running for 2.658)
+[2020-12-09 14:15:51] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 14:15:51] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 14:16:55] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 32620 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 14:16:55] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 14:17:01] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 32623 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 14:17:01] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 14:17:02] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 14:17:02] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 14:17:02] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 14:17:02] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 14:17:03] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 14:17:03] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.068 seconds (JVM running for 2.682)
+[2020-12-09 14:17:18] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 14:17:18] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 14:20:56] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 32637 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 14:20:56] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 14:20:57] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 14:20:57] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 14:20:57] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 14:20:58] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 14:20:58] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 14:20:58] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.258 seconds (JVM running for 3.007)
+[2020-12-09 14:21:24] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 14:21:24] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 14:23:27] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 32656 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 14:23:27] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 14:23:28] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 14:23:28] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 14:23:28] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 14:23:28] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 14:23:29] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 14:23:29] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.131 seconds (JVM running for 2.821)
+[2020-12-09 14:24:56] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 32667 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 14:24:56] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 14:24:56] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 14:24:56] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 14:24:56] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 14:24:57] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 14:24:57] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 14:24:57] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.04 seconds (JVM running for 2.599)
+[2020-12-09 14:25:05] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 14:25:05] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 14:27:07] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 14:28:46] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 32683 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 14:28:46] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 14:28:47] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 14:28:47] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 14:28:47] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 14:28:47] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 14:28:47] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 14:28:47] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.136 seconds (JVM running for 2.749)
+[2020-12-09 14:28:51] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 14:28:51] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 14:32:57] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 32696 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 14:32:57] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 14:32:58] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 14:32:58] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 14:32:58] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 14:32:58] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 14:32:59] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 14:32:59] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.051 seconds (JVM running for 2.663)
+[2020-12-09 14:33:09] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 14:33:09] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 14:34:55] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 14:37:46] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 32736 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 14:37:46] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 14:37:47] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 14:37:47] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 14:37:47] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 14:37:47] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 14:37:48] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 14:37:48] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 1.988 seconds (JVM running for 2.607)
+[2020-12-09 14:38:01] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 14:38:02] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 15:01:37] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 32881 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 15:01:37] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 15:01:38] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 15:01:38] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 15:01:38] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 15:01:39] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 15:01:39] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 15:01:39] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 3.246 seconds (JVM running for 4.078)
+[2020-12-09 15:02:35] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 32888 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 15:02:35] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 15:02:36] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 15:02:36] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 15:02:36] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 15:02:36] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 15:02:37] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 15:02:37] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.401 seconds (JVM running for 3.115)
+[2020-12-09 15:02:56] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 15:02:56] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 15:03:23] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 15:05:09] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 32903 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 15:05:09] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 15:05:11] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 15:05:11] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 15:05:11] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 15:05:11] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 15:05:11] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 15:05:11] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.392 seconds (JVM running for 3.082)
+[2020-12-09 15:12:29] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 15:12:29] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 15:13:09] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 15:14:27] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 32950 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 15:14:27] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 15:14:28] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 15:14:28] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 15:14:28] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 15:14:28] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 15:14:29] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 15:14:29] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.368 seconds (JVM running for 3.146)
+[2020-12-09 15:15:54] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 15:15:54] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 15:20:10] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 32971 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 15:20:10] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 15:20:11] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 15:20:11] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 15:20:11] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 15:20:11] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 15:20:12] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 15:20:12] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.301 seconds (JVM running for 2.991)
+[2020-12-09 15:21:07] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 32977 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 15:21:07] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 15:21:08] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 15:21:08] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 15:21:08] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 15:21:08] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 15:21:09] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 15:21:09] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.622 seconds (JVM running for 3.376)
+[2020-12-09 15:22:33] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 15:22:33] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 15:24:32] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 32997 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 15:24:32] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 15:24:33] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 15:24:33] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 15:24:33] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 15:24:34] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 15:24:34] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 15:24:34] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.643 seconds (JVM running for 3.456)
+[2020-12-09 15:24:51] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 15:24:51] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 15:24:59] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- directory is not exist
+[2020-12-09 15:38:22] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 33033 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 15:38:22] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 15:38:27] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 33038 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 15:38:27] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 15:38:28] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 15:38:28] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 15:38:28] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 15:38:28] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 15:38:29] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 15:38:29] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.326 seconds (JVM running for 3.056)
+[2020-12-09 15:38:34] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 15:38:34] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 15:38:39] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- directory is not exist
+[2020-12-09 15:49:14] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 33073 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 15:49:14] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 15:49:15] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 15:49:15] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 15:49:15] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 15:49:15] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 15:49:16] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 15:49:16] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.522 seconds (JVM running for 3.231)
+[2020-12-09 15:49:42] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 15:49:42] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 15:50:00] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 33081 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 15:50:00] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 15:50:01] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 15:50:01] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 15:50:01] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 15:50:01] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 15:50:01] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 15:50:01] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.255 seconds (JVM running for 2.996)
+[2020-12-09 15:50:26] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 33087 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 15:50:26] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 15:50:27] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 15:50:27] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 15:50:27] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 15:50:27] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 15:50:27] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 15:50:27] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.415 seconds (JVM running for 3.171)
+[2020-12-09 15:53:30] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 15:53:30] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 15:53:32] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- directory is not exist
+[2020-12-09 16:02:33] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 16:02:34] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- directory is not exist
+[2020-12-09 16:09:54] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 33199 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 16:09:54] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 16:09:55] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 16:09:55] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 16:09:55] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 16:09:55] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 16:09:56] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 16:09:56] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.287 seconds (JVM running for 3.151)
+[2020-12-09 16:11:54] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 16:11:54] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 16:18:28] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 33225 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 16:18:28] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 16:18:29] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 16:18:29] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 16:18:29] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 16:18:29] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 16:18:30] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 16:18:30] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.162 seconds (JVM running for 2.984)
+[2020-12-09 16:19:20] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 16:19:20] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 16:23:03] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 33258 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 16:23:03] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 16:23:04] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 16:23:04] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 16:23:04] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 16:23:04] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 16:23:05] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 16:23:05] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.026 seconds (JVM running for 2.644)
+[2020-12-09 16:23:08] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 16:23:08] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 16:23:36] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- directory is not exist
+[2020-12-09 16:30:53] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 33297 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 16:30:53] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 16:30:54] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 16:30:54] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 16:30:54] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 16:30:55] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 16:30:55] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 16:30:55] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.281 seconds (JVM running for 2.911)
+[2020-12-09 16:30:59] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 16:30:59] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 16:31:00] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- directory is not exist
+[2020-12-09 16:32:52] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 33309 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 16:32:52] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 16:32:53] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 16:32:53] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 16:32:53] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 16:32:53] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 16:32:54] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 16:32:54] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.109 seconds (JVM running for 2.717)
+[2020-12-09 16:35:42] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 16:35:42] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 16:35:43] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- directory is not exist
+[2020-12-09 17:48:56] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 33632 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 17:48:56] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 17:48:57] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 17:48:57] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 17:48:57] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 17:48:57] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 17:48:58] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 17:48:58] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.351 seconds (JVM running for 3.21)
+[2020-12-09 18:02:16] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 18:02:16] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 18:02:44] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:02:44] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:02:49] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 33673 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 18:02:49] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 18:02:51] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 18:02:51] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 18:02:51] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 18:02:51] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 18:02:52] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 18:02:52] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.598 seconds (JVM running for 3.359)
+[2020-12-09 18:03:14] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 18:03:14] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 18:03:23] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:03:23] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:03:24] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:03:24] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:03:24] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:03:24] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   zipdemo.zip
+[2020-12-09 18:03:24] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:03:24] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:03:32] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:03:32] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:03:32] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:03:33] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:03:33] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:04:02] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:04:02] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:04:02] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:04:03] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:04:03] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:04:16] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 18:04:19] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:04:19] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:04:20] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:04:20] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:04:20] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:04:36] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   zipdemo.zip
+[2020-12-09 18:04:38] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:04:38] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:04:49] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:04:49] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:04:50] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:04:51] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:04:51] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:05:25] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:05:25] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:05:26] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:05:27] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:05:27] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:05:31] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 33690 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 18:05:31] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 18:05:32] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 18:05:32] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 18:05:32] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 18:05:32] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 18:05:33] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 18:05:33] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.458 seconds (JVM running for 3.088)
+[2020-12-09 18:06:44] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 33702 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 18:06:44] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 18:06:45] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 18:06:45] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 18:06:45] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 18:06:45] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 18:06:46] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 18:06:46] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.206 seconds (JVM running for 2.809)
+[2020-12-09 18:06:50] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 18:06:50] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 18:06:54] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:06:54] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:06:55] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:06:56] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:06:56] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:06:56] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- directory is not exist
+[2020-12-09 18:06:56] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   zipdemo.zip
+[2020-12-09 18:06:56] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:06:56] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:06:56] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:06:56] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:06:56] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:06:57] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:06:57] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:06:57] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   zipdemo.zip
+[2020-12-09 18:06:57] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:06:57] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:06:57] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:06:57] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:06:57] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:06:58] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:06:58] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:06:58] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   zipdemo.zip
+[2020-12-09 18:06:58] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:06:58] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:07:21] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:07:21] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:07:21] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:07:22] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:07:22] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:07:22] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   zipdemo.zip
+[2020-12-09 18:07:22] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:07:22] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:07:22] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:07:22] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:07:22] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:07:23] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:07:23] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:07:23] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   Dockerfile
+[2020-12-09 18:07:23] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:07:23] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:07:27] -- [INFO ]: [com.dfund.recom.algo.service.AlgoService] -- =====build=====
+[2020-12-09 18:07:28] -- [INFO ]: [com.dfund.recom.algo.service.AlgoService] -- =====push=====
+[2020-12-09 18:07:54] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 33709 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 18:07:54] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 18:07:55] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 18:07:55] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 18:07:55] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 18:07:55] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 18:07:56] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 18:07:56] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.414 seconds (JVM running for 3.107)
+[2020-12-09 18:08:15] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 18:08:15] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 18:08:24] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:08:24] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:08:25] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:08:25] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:08:25] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:08:25] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- directory is not exist
+[2020-12-09 18:08:25] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   zipdemo.zip
+[2020-12-09 18:08:25] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:08:25] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:08:35] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:08:35] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:08:35] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:08:36] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:08:36] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:08:36] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   zipdemo.zip
+[2020-12-09 18:08:36] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:08:36] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:08:36] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:08:36] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:08:36] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:08:37] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:08:37] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:08:37] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   zipdemo.zip
+[2020-12-09 18:08:37] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:08:37] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:08:37] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:08:37] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:08:38] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:08:38] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:08:38] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:08:38] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   zipdemo.zip
+[2020-12-09 18:08:38] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:08:38] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:08:38] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:08:38] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:08:39] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:08:39] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:08:39] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:08:40] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   Dockerfile
+[2020-12-09 18:08:40] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:08:40] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:08:40] -- [INFO ]: [com.dfund.recom.algo.service.AlgoService] -- =====build=====
+[2020-12-09 18:08:41] -- [INFO ]: [com.dfund.recom.algo.service.AlgoService] -- =====push=====
+[2020-12-09 18:08:46] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 33719 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 18:08:46] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 18:08:47] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 18:08:47] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 18:08:47] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 18:08:47] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 18:08:47] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 18:08:47] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.436 seconds (JVM running for 3.12)
+[2020-12-09 18:09:02] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 18:09:02] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 18:09:44] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:09:44] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:09:51] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:09:53] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:09:53] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:09:57] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- directory is not exist
+[2020-12-09 18:10:03] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   zipdemo.zip
+[2020-12-09 18:10:03] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:10:03] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:10:03] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:10:03] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:10:08] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:10:10] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:10:10] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:10:12] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   zipdemo.zip
+[2020-12-09 18:10:12] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:10:12] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:10:12] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:10:12] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:10:15] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:10:18] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:10:18] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:10:23] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   zipdemo.zip
+[2020-12-09 18:10:23] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:10:23] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:10:56] -- [INFO ]: [com.dfund.recom.algo.service.AlgoService] -- =====build=====
+[2020-12-09 18:10:58] -- [INFO ]: [com.dfund.recom.algo.service.AlgoService] -- =====push=====
+[2020-12-09 18:13:21] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 33738 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 18:13:21] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 18:13:22] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 18:13:22] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 18:13:22] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 18:13:22] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 18:13:23] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 18:13:23] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.059 seconds (JVM running for 2.686)
+[2020-12-09 18:13:45] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 18:13:45] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 18:13:48] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:13:48] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:13:52] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:13:57] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:13:57] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:13:59] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- directory is not exist
+[2020-12-09 18:14:09] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   zipdemo.zip
+[2020-12-09 18:14:09] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:14:09] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:14:09] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:14:09] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:14:15] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:14:17] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:14:17] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:14:22] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   zipdemo.zip
+[2020-12-09 18:14:22] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:14:22] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:14:22] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:14:22] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:14:24] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:14:26] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:14:26] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:14:27] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   zipdemo.zip
+[2020-12-09 18:14:27] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:14:27] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:15:45] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 33747 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 18:15:45] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 18:15:46] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 18:15:46] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 18:15:46] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 18:15:46] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 18:15:47] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 18:15:47] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.395 seconds (JVM running for 3.115)
+[2020-12-09 18:15:50] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 18:15:50] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 18:15:53] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:15:53] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:15:54] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:15:56] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:15:56] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:15:56] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- directory is not exist
+[2020-12-09 18:15:58] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   Dockerfile
+[2020-12-09 18:15:58] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:15:58] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:15:58] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:15:58] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:16:00] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:16:01] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:16:01] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:16:02] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   hello.py
+[2020-12-09 18:16:02] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:16:02] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:16:02] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:16:02] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:16:05] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:16:06] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:16:06] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:16:07] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   model.pkl
+[2020-12-09 18:16:07] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:16:07] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:17:26] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:17:26] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:17:26] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:17:27] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:17:27] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:17:27] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   zipdemo.zip
+[2020-12-09 18:17:27] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:17:27] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:17:27] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:17:27] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:17:27] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:17:28] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:17:28] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:17:32] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 33762 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 18:17:32] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 18:17:34] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 18:17:34] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 18:17:34] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 18:17:34] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 18:17:34] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 18:17:34] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.42 seconds (JVM running for 3.099)
+[2020-12-09 18:18:09] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 18:18:09] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 18:18:13] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:18:13] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:18:13] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:18:14] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:18:14] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:18:14] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- directory is not exist
+[2020-12-09 18:18:14] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   Dockerfile
+[2020-12-09 18:18:14] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:18:14] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:18:14] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:18:14] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:18:14] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:18:15] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:18:15] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:18:15] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   hello.py
+[2020-12-09 18:18:15] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:18:15] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:18:15] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:18:15] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:18:15] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:18:16] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:18:16] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:18:16] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   model.pkl
+[2020-12-09 18:18:16] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:18:16] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:18:46] -- [INFO ]: [com.dfund.recom.algo.service.AlgoService] -- =====build=====
+[2020-12-09 18:18:47] -- [INFO ]: [com.dfund.recom.algo.service.AlgoService] -- =====push=====
+[2020-12-09 18:20:06] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 18:20:08] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:20:08] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:20:11] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:20:12] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:20:12] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:20:12] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- directory is not exist
+[2020-12-09 18:20:12] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   Dockerfile
+[2020-12-09 18:20:12] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:20:12] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:20:12] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:20:12] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:20:13] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:20:13] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:20:13] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:20:14] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   hello.py
+[2020-12-09 18:20:14] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:20:14] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:20:14] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:20:14] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:20:14] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:20:15] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:20:15] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:20:15] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   model.pkl
+[2020-12-09 18:20:15] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:20:15] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:20:55] -- [INFO ]: [com.dfund.recom.algo.service.AlgoService] -- =====build=====
+[2020-12-09 18:23:14] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 33786 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-09 18:23:14] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-09 18:23:15] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-09 18:23:15] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-09 18:23:15] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-09 18:23:15] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-09 18:23:16] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-09 18:23:16] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.098 seconds (JVM running for 2.704)
+[2020-12-09 18:24:05] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-09 18:24:05] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-09 18:24:06] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:24:06] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:24:06] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:24:07] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:24:07] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:24:07] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- directory is not exist
+[2020-12-09 18:24:07] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   Dockerfile
+[2020-12-09 18:24:07] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:24:07] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:24:07] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:24:07] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:24:07] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:24:08] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:24:08] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:24:08] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   hello.py
+[2020-12-09 18:24:08] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:24:08] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:24:08] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-09 18:24:08] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-09 18:24:08] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-09 18:24:09] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-09 18:24:09] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-09 18:24:09] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   model.pkl
+[2020-12-09 18:24:09] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-09 18:24:09] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-09 18:24:13] -- [INFO ]: [com.dfund.recom.algo.service.AlgoService] -- =====build=====
+[2020-12-09 18:24:13] -- [INFO ]: [com.dfund.recom.algo.service.AlgoService] -- =====push=====

@@ -1,0 +1,20 @@
+[2020-12-16 11:34:34] -- [DEBUG]: [com.dfund.recom.algo.AlgoApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-12-16 11:34:35] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-12-16 11:34:35] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-12-16 11:34:36] -- [DEBUG]: [io.sentry.config.Lookup] -- Sentry configuration file not found in filesystem or classpath: 'sentry.properties'.
+[2020-12-16 11:34:36] -- [DEBUG]: [io.sentry.DefaultSentryClientFactory] -- Using an HTTPS connection to Sentry.
+[2020-12-16 11:34:36] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.HttpEventBuilderHelper@52d3fafd' to the list of builder helpers.
+[2020-12-16 11:34:36] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.ContextBuilderHelper@523a7801' to the list of builder helpers.
+[2020-12-16 11:34:36] -- [DEBUG]: [io.sentry.SentryClientFactory] -- Configuring uncaught exception handler.
+[2020-12-16 13:27:05] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Gracefully shutting down Sentry async threads.
+[2020-12-16 13:27:05] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Shutdown finished.
+[2020-12-16 13:27:16] -- [DEBUG]: [com.dfund.recom.algo.AlgoApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-12-16 13:27:17] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-12-16 13:27:17] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-12-16 13:27:18] -- [DEBUG]: [io.sentry.config.Lookup] -- Sentry configuration file not found in filesystem or classpath: 'sentry.properties'.
+[2020-12-16 13:27:18] -- [DEBUG]: [io.sentry.DefaultSentryClientFactory] -- Using an HTTPS connection to Sentry.
+[2020-12-16 13:27:18] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.HttpEventBuilderHelper@5e002356' to the list of builder helpers.
+[2020-12-16 13:27:18] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.ContextBuilderHelper@79ba0a6f' to the list of builder helpers.
+[2020-12-16 13:27:18] -- [DEBUG]: [io.sentry.SentryClientFactory] -- Configuring uncaught exception handler.
+[2020-12-16 13:35:29] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Gracefully shutting down Sentry async threads.
+[2020-12-16 13:35:29] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Shutdown finished.

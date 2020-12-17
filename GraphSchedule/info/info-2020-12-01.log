@@ -1,0 +1,101 @@
+[2020-12-01 09:37:38] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 09:40:32] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 09:41:37] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 09:41:48] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 09:42:54] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 09:44:09] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 09:44:31] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 09:44:33] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 09:46:14] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 09:46:21] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 09:48:06] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 09:48:15] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 09:51:57] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 09:51:57] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 09:52:11] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 09:52:15] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 09:52:17] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 09:52:26] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 09:55:16] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 09:55:35] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 09:55:43] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 09:55:47] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown initiated...
+[2020-12-01 09:55:47] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown completed.
+[2020-12-01 09:55:52] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 10648 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-01 09:55:52] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-01 09:55:53] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-01 09:55:53] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-01 09:55:53] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-01 09:55:53] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-01 09:55:53] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-01 09:55:53] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.034 seconds (JVM running for 2.603)
+[2020-12-01 09:59:08] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-01 09:59:08] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 09:59:08] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Starting...
+[2020-12-01 09:59:08] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Start completed.
+[2020-12-01 09:59:34] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 10:00:38] -- [INFO ]: [com.dfund.recom.algo.service.AlgoService] -- AlgoService ... insertAlgo error : java.lang.String cannot be cast to com.dfund.recom.algo.entity.Algorithm
+[2020-12-01 10:01:42] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown initiated...
+[2020-12-01 10:01:42] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown completed.
+[2020-12-01 10:02:50] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 10681 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-01 10:02:50] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-01 10:02:51] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-01 10:02:51] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-01 10:02:51] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-01 10:02:51] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-01 10:02:52] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-01 10:02:52] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.117 seconds (JVM running for 2.755)
+[2020-12-01 10:02:57] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-01 10:02:58] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 10:02:58] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Starting...
+[2020-12-01 10:02:58] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Start completed.
+[2020-12-01 10:03:17] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 10:03:25] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 10:03:27] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 10:05:59] -- [INFO ]: [com.dfund.recom.algo.service.AlgoService] -- AlgoService ... insertAlgo error : java.lang.String cannot be cast to com.dfund.recom.algo.entity.Algorithm
+[2020-12-01 10:06:01] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown initiated...
+[2020-12-01 10:06:01] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown completed.
+[2020-12-01 10:06:04] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 10695 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-01 10:06:04] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-01 10:06:05] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-01 10:06:05] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-01 10:06:05] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-01 10:06:05] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-01 10:06:06] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-01 10:06:06] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.009 seconds (JVM running for 2.581)
+[2020-12-01 10:06:16] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-01 10:06:16] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 10:06:16] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Starting...
+[2020-12-01 10:06:17] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Start completed.
+[2020-12-01 10:06:22] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 10:18:32] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown initiated...
+[2020-12-01 10:18:32] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown completed.
+[2020-12-01 10:18:37] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 10769 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-01 10:18:37] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-01 10:18:37] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-01 10:18:37] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-01 10:18:37] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-01 10:18:38] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-01 10:18:38] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-01 10:18:38] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.036 seconds (JVM running for 2.667)
+[2020-12-01 10:19:40] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-01 10:19:40] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 10:19:41] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Starting...
+[2020-12-01 10:19:41] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Start completed.
+[2020-12-01 10:23:34] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 10:26:04] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 10:26:06] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 10:26:18] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 10:26:19] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 10:27:32] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 10:27:34] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 10:27:38] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 10:27:40] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 10:29:38] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 10:30:54] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 10:31:00] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 10:33:39] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 10:35:25] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 10:35:28] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 10:39:30] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 
+[2020-12-01 10:42:01] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理条件查询，str ,type , creater 

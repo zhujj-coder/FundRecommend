@@ -1,0 +1,51 @@
+
+R	java:S125…"<This block of commented-out lines of code should be removed.(¿™¾®
+J
+java:S1144×".Remove this unused private "uploadZip" method.(¿¬ş•ùÿÿÿÿ
+?
+java:S1604Â"(Make this anonymous inner class a lambda(ÉãÃ®
+W	java:S125œ"<This block of commented-out lines of code should be removed.(ÈèºÎüÿÿÿÿ
+\	java:S112µ"FDefine and throw a dedicated exception instead of using a generic one.(×®Ÿ¯
+j
+java:S3252N"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+B
+java:S1068*",Remove this unused "modelUrl" private field.(“¬Ü
+Y
+java:S1155P">Use isEmpty() to check whether the collection is empty or not.(É€°Îøÿÿÿÿ
+@
+java:S5411G"*Use the primitive boolean expression here.(Ú´¢
+J
+java:S3740j"/Provide the parametrized type for this generic.(Öôİ¼ÿÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(ØğÈ9
+Y
+java:S1155U">Use isEmpty() to check whether the collection is empty or not.(ãÍˆáúÿÿÿÿ
+a	java:S112×"FDefine and throw a dedicated exception instead of using a generic one.(¿¬ş•ùÿÿÿÿ
+?	java:S108")Either remove or fill this block of code.(å¥‡
+E
+java:S5411J"*Use the primitive boolean expression here.(Û¢Ñûıÿÿÿÿ
+7
+java:S1170*"!Make this final field static too.(“¬Ü
+D	java:S108È")Either remove or fill this block of code.(’¦¬¶ÿÿÿÿÿ
+h
+java:S37766"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(™ÇÏ·
+{
+java:S1488e"`Immediately return this expression instead of assigning it to the temporary variable "pageInfo".(è·äÿÿÿÿÿ
+X
+java:S3457°"AFormat specifiers should be used instead of string concatenation.(‡à¾Û
+<
+java:S1170("!Make this final field static too.(ï²–Ãÿÿÿÿÿ
+w
+java:S3923›"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Í©ˆÕúÿÿÿÿ
+R
+java:S1128"<Remove this unused import 'com.alibaba.fastjson.JSONObject'.(äıµ
+I
+java:S1481Ú"-Remove this unused "fileName" local variable.(ÜĞ×õüÿÿÿÿ
+]
+java:S2259¸"FA "NullPointerException" could be thrown; "filename" is nullable here.(¡ŒÃ
+i
+java:S1871Ê"MThis branch's code block is the same as the block for the branch on line 200.(­«ƒÓûÿÿÿÿ
+@
+java:S5411="*Use the primitive boolean expression here.(í¾Şç
+H
+java:S1481Ù",Remove this unused "teachId" local variable.(¹Ø‰àùÿÿÿÿ
+D	java:S108Ê")Either remove or fill this block of code.(­«ƒÓûÿÿÿÿ

@@ -1,0 +1,2 @@
+[2020-12-10 09:41:19] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Gracefully shutting down Sentry async threads.
+[2020-12-10 09:41:19] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Shutdown finished.

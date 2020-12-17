@@ -1,0 +1,220 @@
+[2020-11-25 10:42:35] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- Starting ScheduleApplication on localhost with PID 31334 (/Users/seldom/Desktop/GraphProject/GraphSchedule/graph-excute/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-11-25 10:42:35] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- The following profiles are active: dev
+[2020-11-25 10:42:36] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-11-25 10:42:36] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-11-25 10:42:36] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-11-25 10:42:36] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-11-25 10:42:37] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-11-25 10:42:37] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- Started ScheduleApplication in 2.919 seconds (JVM running for 3.614)
+[2020-11-25 10:47:01] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-11-25 10:47:01] -- [INFO ]: [com.dfundata.fund.schedule.web.AlgoController] -- 算法管理编辑，algoId 1,name 算法测试,version v1.0.2,type 0, scope 0,desc 这是一个算法 
+[2020-11-25 10:47:23] -- [INFO ]: [com.dfundata.fund.schedule.web.AlgoController] -- 算法管理编辑，algoId 1,name 算法测试,version v1.0.2,type 0, scope 0,desc 这是一个算法 
+[2020-11-25 10:48:05] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- Starting ScheduleApplication on localhost with PID 31369 (/Users/seldom/Desktop/GraphProject/GraphSchedule/graph-excute/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-11-25 10:48:05] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- The following profiles are active: dev
+[2020-11-25 10:48:06] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-11-25 10:48:06] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-11-25 10:48:06] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-11-25 10:48:06] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-11-25 10:48:07] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-11-25 10:48:07] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- Started ScheduleApplication in 2.468 seconds (JVM running for 3.086)
+[2020-11-25 10:58:39] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-11-25 10:58:39] -- [INFO ]: [com.dfundata.fund.schedule.web.AlgoController] -- 算法管理编辑，algoId 1,name 算法测试,version v1.0.2,type 0, scope 0,desc 这是一个算法 
+[2020-11-25 10:58:43] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Starting...
+[2020-11-25 10:58:43] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Start completed.
+[2020-11-25 10:59:06] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown initiated...
+[2020-11-25 10:59:06] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown completed.
+[2020-11-25 10:59:09] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- Starting ScheduleApplication on localhost with PID 31423 (/Users/seldom/Desktop/GraphProject/GraphSchedule/graph-excute/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-11-25 10:59:09] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- The following profiles are active: dev
+[2020-11-25 10:59:10] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-11-25 10:59:10] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-11-25 10:59:10] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-11-25 10:59:10] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-11-25 10:59:11] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-11-25 10:59:11] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- Started ScheduleApplication in 2.569 seconds (JVM running for 3.175)
+[2020-11-25 11:00:13] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-11-25 11:00:13] -- [INFO ]: [com.dfundata.fund.schedule.web.AlgoController] -- 算法管理编辑，algoId 1,name 算法测试,version v1.0.2,type 0, scope 0,desc 这是一个算法 
+[2020-11-25 11:00:15] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Starting...
+[2020-11-25 11:00:16] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Start completed.
+[2020-11-25 11:03:30] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown initiated...
+[2020-11-25 11:03:30] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown completed.
+[2020-11-25 11:03:33] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- Starting ScheduleApplication on localhost with PID 31605 (/Users/seldom/Desktop/GraphProject/GraphSchedule/graph-excute/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-11-25 11:03:33] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- The following profiles are active: dev
+[2020-11-25 11:03:34] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-11-25 11:03:34] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-11-25 11:03:34] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-11-25 11:03:34] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-11-25 11:03:35] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-11-25 11:03:35] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- Started ScheduleApplication in 2.424 seconds (JVM running for 3.058)
+[2020-11-25 11:03:43] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-11-25 11:03:43] -- [INFO ]: [com.dfundata.fund.schedule.web.AlgoController] -- 算法管理编辑，algoId 1,name 算法测试,version v1.0.2,type 0, scope 0,desc 这是一个算法 
+[2020-11-25 11:03:45] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Starting...
+[2020-11-25 11:03:45] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Start completed.
+[2020-11-25 14:09:46] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown initiated...
+[2020-11-25 14:09:46] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown completed.
+[2020-11-25 14:09:49] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- Starting ScheduleApplication on localhost with PID 32158 (/Users/seldom/Desktop/GraphProject/GraphSchedule/graph-excute/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-11-25 14:09:49] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- The following profiles are active: dev
+[2020-11-25 14:09:50] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-11-25 14:09:50] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-11-25 14:09:50] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-11-25 14:09:50] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-11-25 14:09:50] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-11-25 14:09:50] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- Started ScheduleApplication in 2.319 seconds (JVM running for 2.969)
+[2020-11-25 14:29:36] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- Starting ScheduleApplication on localhost with PID 731 (/Users/seldom/Desktop/GraphProject/GraphSchedule/graph-excute/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-11-25 14:29:36] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- The following profiles are active: dev
+[2020-11-25 14:29:37] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-11-25 14:29:37] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-11-25 14:29:37] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-11-25 14:29:37] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-11-25 14:29:38] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-11-25 14:29:38] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- Started ScheduleApplication in 2.263 seconds (JVM running for 3.758)
+[2020-11-25 14:35:44] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-11-25 14:35:44] -- [INFO ]: [com.dfundata.fund.schedule.web.AlgoController] -- 算法管理条件查询，str null,type null, creater null
+[2020-11-25 14:36:01] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Starting...
+[2020-11-25 14:36:39] -- [INFO ]: [com.dfundata.fund.schedule.web.AlgoController] -- 算法管理条件查询，str null,type null, creater null
+[2020-11-25 14:36:42] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Starting...
+[2020-11-25 14:36:42] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Start completed.
+[2020-11-25 14:38:24] -- [INFO ]: [com.dfundata.fund.schedule.web.AlgoController] -- 算法管理编辑，algoId 1,name 算法测试,version v1.0.2,type 0, scope 0,desc 这是一个算法 
+[2020-11-25 15:02:33] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown initiated...
+[2020-11-25 15:02:33] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown completed.
+[2020-11-25 15:37:07] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- Starting ScheduleApplication on localhost with PID 1288 (/Users/seldom/Desktop/GraphProject/GraphSchedule/graph-excute/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-11-25 15:37:07] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- The following profiles are active: dev
+[2020-11-25 15:37:07] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-11-25 15:37:07] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-11-25 15:37:07] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-11-25 15:37:08] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-11-25 15:37:08] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-11-25 15:37:08] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- Started ScheduleApplication in 1.937 seconds (JVM running for 2.533)
+[2020-11-25 15:39:26] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-11-25 15:39:26] -- [INFO ]: [com.dfundata.fund.schedule.web.AlgoController] -- 算法管理编辑，algorithm = 
+[2020-11-25 15:40:28] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- Starting ScheduleApplication on localhost with PID 1305 (/Users/seldom/Desktop/GraphProject/GraphSchedule/graph-excute/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-11-25 15:40:28] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- The following profiles are active: dev
+[2020-11-25 15:40:29] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-11-25 15:40:29] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-11-25 15:40:29] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-11-25 15:40:29] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-11-25 15:40:30] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-11-25 15:40:30] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- Started ScheduleApplication in 1.897 seconds (JVM running for 2.487)
+[2020-11-25 15:40:55] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- Starting ScheduleApplication on localhost with PID 1310 (/Users/seldom/Desktop/GraphProject/GraphSchedule/graph-excute/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-11-25 15:40:55] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- The following profiles are active: dev
+[2020-11-25 15:40:56] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-11-25 15:40:56] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-11-25 15:40:56] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-11-25 15:40:56] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-11-25 15:40:57] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-11-25 15:40:57] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- Started ScheduleApplication in 1.907 seconds (JVM running for 2.587)
+[2020-11-25 15:41:02] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-11-25 15:41:02] -- [INFO ]: [com.dfundata.fund.schedule.web.AlgoController] -- 算法管理编辑，algorithm = 
+[2020-11-25 15:41:22] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- Starting ScheduleApplication on localhost with PID 1315 (/Users/seldom/Desktop/GraphProject/GraphSchedule/graph-excute/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-11-25 15:41:22] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- The following profiles are active: dev
+[2020-11-25 15:41:23] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-11-25 15:41:23] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-11-25 15:41:23] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-11-25 15:41:23] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-11-25 15:41:24] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-11-25 15:41:24] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- Started ScheduleApplication in 1.874 seconds (JVM running for 2.469)
+[2020-11-25 15:41:55] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-11-25 15:41:55] -- [INFO ]: [com.dfundata.fund.schedule.web.AlgoController] -- 算法管理编辑，algorithm = 
+[2020-11-25 15:42:21] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- Starting ScheduleApplication on localhost with PID 1332 (/Users/seldom/Desktop/GraphProject/GraphSchedule/graph-excute/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-11-25 15:42:21] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- The following profiles are active: dev
+[2020-11-25 15:42:22] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-11-25 15:42:22] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-11-25 15:42:22] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-11-25 15:42:22] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-11-25 15:42:22] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-11-25 15:42:22] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- Started ScheduleApplication in 2.226 seconds (JVM running for 2.859)
+[2020-11-25 15:42:44] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-11-25 15:42:44] -- [INFO ]: [com.dfundata.fund.schedule.web.AlgoController] -- 算法管理编辑，algorithm = 
+[2020-11-25 15:43:10] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- Starting ScheduleApplication on localhost with PID 1345 (/Users/seldom/Desktop/GraphProject/GraphSchedule/graph-excute/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-11-25 15:43:10] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- The following profiles are active: dev
+[2020-11-25 15:43:10] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-11-25 15:43:10] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-11-25 15:43:10] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-11-25 15:43:11] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-11-25 15:43:11] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-11-25 15:43:11] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- Started ScheduleApplication in 1.866 seconds (JVM running for 2.466)
+[2020-11-25 15:43:16] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-11-25 15:43:16] -- [INFO ]: [com.dfundata.fund.schedule.web.AlgoController] -- 算法管理编辑，algorithm = 
+[2020-11-25 15:43:16] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Starting...
+[2020-11-25 15:43:17] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Start completed.
+[2020-11-25 15:44:27] -- [INFO ]: [com.dfundata.fund.schedule.web.AlgoController] -- 算法管理编辑，algorithm = 
+[2020-11-25 15:45:23] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown initiated...
+[2020-11-25 15:45:23] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown completed.
+[2020-11-25 15:45:26] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- Starting ScheduleApplication on localhost with PID 1361 (/Users/seldom/Desktop/GraphProject/GraphSchedule/graph-excute/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-11-25 15:45:26] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- The following profiles are active: dev
+[2020-11-25 15:45:27] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-11-25 15:45:27] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-11-25 15:45:27] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-11-25 15:45:27] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-11-25 15:45:28] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-11-25 15:45:28] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- Started ScheduleApplication in 1.959 seconds (JVM running for 2.595)
+[2020-11-25 15:45:32] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-11-25 15:45:32] -- [INFO ]: [com.dfundata.fund.schedule.web.AlgoController] -- 算法管理编辑，algorithm = 
+[2020-11-25 15:46:11] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Starting...
+[2020-11-25 15:46:11] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Start completed.
+[2020-11-25 15:46:53] -- [INFO ]: [com.dfundata.fund.schedule.web.AlgoController] -- 算法管理编辑，algorithm = 
+[2020-11-25 15:48:50] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown initiated...
+[2020-11-25 15:48:50] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown completed.
+[2020-11-25 15:48:53] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- Starting ScheduleApplication on localhost with PID 1375 (/Users/seldom/Desktop/GraphProject/GraphSchedule/graph-excute/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-11-25 15:48:53] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- The following profiles are active: dev
+[2020-11-25 15:48:54] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-11-25 15:48:54] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-11-25 15:48:54] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-11-25 15:48:54] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-11-25 15:48:54] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-11-25 15:48:55] -- [INFO ]: [com.dfundata.fund.schedule.ScheduleApplication] -- Started ScheduleApplication in 1.828 seconds (JVM running for 2.376)
+[2020-11-25 15:49:07] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-11-25 15:49:07] -- [INFO ]: [com.dfundata.fund.schedule.web.AlgoController] -- 算法管理编辑，algorithm = Algorithm{algorithmId=1, algorithmName='普通算法', algorithmVision='v1.0.1', algorithmType='1', applyClientScope='', creater='null', createTime=null, updUser='seldom', updTime=null, algorithmDescription='', algorithmState='0', pythonfile='hello1.py', pythonUrl='/url/hello', modelfile='null', modelUrl='', initDate='null'}
+[2020-11-25 15:49:07] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Starting...
+[2020-11-25 15:49:07] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Start completed.
+[2020-11-25 16:05:35] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown initiated...
+[2020-11-25 16:05:35] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown completed.
+[2020-11-25 16:13:20] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 1618 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-11-25 16:13:20] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-11-25 16:13:21] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-11-25 16:13:21] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-11-25 16:13:21] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-11-25 16:13:21] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-11-25 16:13:21] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Stopping service [Tomcat]
+[2020-11-25 16:23:47] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 1661 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-11-25 16:23:47] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-11-25 16:23:49] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-11-25 16:23:49] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-11-25 16:23:49] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-11-25 16:23:49] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-11-25 16:23:49] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-11-25 16:23:49] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.6 seconds (JVM running for 3.369)
+[2020-11-25 16:23:55] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-11-25 16:23:56] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理编辑，algorithm = Algorithm{algorithmId=1, algorithmName='普通算法', algorithmVision='v1.0.1', algorithmType='1', applyClientScope='', creater='null', createTime=null, updUser='seldom', updTime=null, algorithmDescription='', algorithmState='0', pythonfile='hello1.py', pythonUrl='/url/hello', modelfile='null', modelUrl='', initDate='null'}
+[2020-11-25 16:25:36] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 1685 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-11-25 16:25:36] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-11-25 16:25:37] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-11-25 16:25:37] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-11-25 16:25:37] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-11-25 16:25:37] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-11-25 16:25:37] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Stopping service [Tomcat]
+[2020-11-25 16:26:42] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 1700 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-11-25 16:26:42] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-11-25 16:26:43] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-11-25 16:26:43] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-11-25 16:26:43] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-11-25 16:26:43] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-11-25 16:26:43] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Stopping service [Tomcat]
+[2020-11-25 16:29:57] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 1735 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-11-25 16:29:57] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-11-25 16:29:58] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-11-25 16:29:58] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-11-25 16:29:58] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-11-25 16:29:58] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-11-25 16:29:58] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Stopping service [Tomcat]
+[2020-11-25 16:31:11] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 1748 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-11-25 16:31:11] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-11-25 16:31:12] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-11-25 16:31:12] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-11-25 16:31:12] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-11-25 16:31:12] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-11-25 16:31:13] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-11-25 16:31:13] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 1.694 seconds (JVM running for 2.122)
+[2020-11-25 16:33:06] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-11-25 16:33:06] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- 算法管理编辑，algorithm = Algorithm{algorithmId=1, algorithmName='普通算法', algorithmVision='v1.0.1', algorithmType='1', applyClientScope='', creater='null', createTime=null, updUser='seldom', updTime=null, algorithmDescription='', algorithmState='0', pythonfile='hello1.py', pythonUrl='/url/hello', modelfile='null', modelUrl='', initDate='null'}
+[2020-11-25 16:33:06] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Starting...
+[2020-11-25 16:33:06] -- [INFO ]: [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Start completed.

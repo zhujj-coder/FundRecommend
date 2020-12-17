@@ -1,0 +1,8 @@
+
+w
+java:S26294"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(—ŸþÈÿÿÿÿÿ
+\
+java:S34574"AFormat specifiers should be used instead of string concatenation.(—ŸþÈÿÿÿÿÿ
+M	java:S106?"9Replace this use of System.out or System.err by a logger.(“Ê°l
+R
+java:S1128"<Remove this unused import 'com.alibaba.fastjson.JSONObject'.(äýµ

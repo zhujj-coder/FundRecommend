@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fund-schedule-gd" />
+        <module name="fund-common-gd" />
+        <module name="fund-flink-gd" />
+        <module name="recom-algo" />
+        <module name="recom-task" />
+        <module name="fund-redis-gd" />
+        <module name="recom-common" />
+        <module name="fund-hive-gd" />
+        <module name="recom-redis" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fund-common" target="1.8" />
+      <module name="fund-flink" target="1.8" />
+      <module name="fund-hivejdbc-gd" target="1.8" />
+      <module name="fund-redis" target="1.8" />
+      <module name="fund-schedule" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="fund-hivejdbc-gd" options="" />
+    </option>
+  </component>
+</project>

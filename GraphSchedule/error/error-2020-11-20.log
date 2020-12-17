@@ -1,0 +1,54 @@
+[2020-11-20 15:43:42] -- [ERROR]: [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter] -- 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field algoMapper in com.dfundata.fund.schedule.service.AlgoService required a bean of type 'com.dfundata.fund.schedule.mapper.AlgoMapper' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.dfundata.fund.schedule.mapper.AlgoMapper' in your configuration.
+
+[2020-11-20 15:46:07] -- [ERROR]: [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter] -- 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field algoMapper in com.dfundata.fund.schedule.service.AlgoService required a bean of type 'com.dfundata.fund.schedule.mapper.AlgoMapper' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.dfundata.fund.schedule.mapper.AlgoMapper' in your configuration.
+
+[2020-11-20 15:47:31] -- [ERROR]: [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter] -- 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field algoMapper in com.dfundata.fund.schedule.service.AlgoService required a bean of type 'com.dfundata.fund.schedule.mapper.AlgoMapper' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.dfundata.fund.schedule.mapper.AlgoMapper' in your configuration.
+

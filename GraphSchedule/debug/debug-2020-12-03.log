@@ -1,0 +1,111 @@
+[2020-12-03 15:10:52] -- [DEBUG]: [com.dfund.recom.algo.AlgoApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-12-03 15:10:53] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-12-03 15:10:54] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-12-03 15:10:54] -- [DEBUG]: [io.sentry.config.Lookup] -- Sentry configuration file not found in filesystem or classpath: 'sentry.properties'.
+[2020-12-03 15:10:54] -- [DEBUG]: [io.sentry.DefaultSentryClientFactory] -- Using an HTTPS connection to Sentry.
+[2020-12-03 15:10:54] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.HttpEventBuilderHelper@37a9b687' to the list of builder helpers.
+[2020-12-03 15:10:54] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.ContextBuilderHelper@6c977dcf' to the list of builder helpers.
+[2020-12-03 15:10:54] -- [DEBUG]: [io.sentry.SentryClientFactory] -- Configuring uncaught exception handler.
+[2020-12-03 15:13:36] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Gracefully shutting down Sentry async threads.
+[2020-12-03 15:13:36] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Shutdown finished.
+[2020-12-03 15:13:40] -- [DEBUG]: [com.dfund.recom.algo.AlgoApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-12-03 15:13:41] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-12-03 15:13:41] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-12-03 15:13:42] -- [DEBUG]: [io.sentry.config.Lookup] -- Sentry configuration file not found in filesystem or classpath: 'sentry.properties'.
+[2020-12-03 15:13:42] -- [DEBUG]: [io.sentry.DefaultSentryClientFactory] -- Using an HTTPS connection to Sentry.
+[2020-12-03 15:13:42] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.HttpEventBuilderHelper@4e375bba' to the list of builder helpers.
+[2020-12-03 15:13:42] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.ContextBuilderHelper@39da5e49' to the list of builder helpers.
+[2020-12-03 15:13:42] -- [DEBUG]: [io.sentry.SentryClientFactory] -- Configuring uncaught exception handler.
+[2020-12-03 15:14:53] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Gracefully shutting down Sentry async threads.
+[2020-12-03 15:14:53] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Shutdown finished.
+[2020-12-03 15:14:57] -- [DEBUG]: [com.dfund.recom.algo.AlgoApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-12-03 15:14:59] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-12-03 15:14:59] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-12-03 15:14:59] -- [DEBUG]: [io.sentry.config.Lookup] -- Sentry configuration file not found in filesystem or classpath: 'sentry.properties'.
+[2020-12-03 15:14:59] -- [DEBUG]: [io.sentry.DefaultSentryClientFactory] -- Using an HTTPS connection to Sentry.
+[2020-12-03 15:14:59] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.HttpEventBuilderHelper@66e17eff' to the list of builder helpers.
+[2020-12-03 15:14:59] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.ContextBuilderHelper@721d5b74' to the list of builder helpers.
+[2020-12-03 15:14:59] -- [DEBUG]: [io.sentry.SentryClientFactory] -- Configuring uncaught exception handler.
+[2020-12-03 15:16:00] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Gracefully shutting down Sentry async threads.
+[2020-12-03 15:16:00] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Shutdown finished.
+[2020-12-03 15:16:03] -- [DEBUG]: [com.dfund.recom.algo.AlgoApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-12-03 15:16:04] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-12-03 15:16:04] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-12-03 15:16:05] -- [DEBUG]: [io.sentry.config.Lookup] -- Sentry configuration file not found in filesystem or classpath: 'sentry.properties'.
+[2020-12-03 15:16:05] -- [DEBUG]: [io.sentry.DefaultSentryClientFactory] -- Using an HTTPS connection to Sentry.
+[2020-12-03 15:16:05] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.HttpEventBuilderHelper@60e1d87c' to the list of builder helpers.
+[2020-12-03 15:16:05] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.ContextBuilderHelper@10177794' to the list of builder helpers.
+[2020-12-03 15:16:05] -- [DEBUG]: [io.sentry.SentryClientFactory] -- Configuring uncaught exception handler.
+[2020-12-03 15:27:16] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Gracefully shutting down Sentry async threads.
+[2020-12-03 15:27:16] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Shutdown finished.
+[2020-12-03 15:27:20] -- [DEBUG]: [com.dfund.recom.algo.AlgoApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-12-03 15:27:22] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-12-03 15:27:22] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-12-03 15:27:22] -- [DEBUG]: [io.sentry.config.Lookup] -- Sentry configuration file not found in filesystem or classpath: 'sentry.properties'.
+[2020-12-03 15:27:22] -- [DEBUG]: [io.sentry.DefaultSentryClientFactory] -- Using an HTTPS connection to Sentry.
+[2020-12-03 15:27:22] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.HttpEventBuilderHelper@69f2cb04' to the list of builder helpers.
+[2020-12-03 15:27:22] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.ContextBuilderHelper@3a7c678b' to the list of builder helpers.
+[2020-12-03 15:27:22] -- [DEBUG]: [io.sentry.SentryClientFactory] -- Configuring uncaught exception handler.
+[2020-12-03 15:35:19] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Gracefully shutting down Sentry async threads.
+[2020-12-03 15:35:19] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Shutdown finished.
+[2020-12-03 15:35:23] -- [DEBUG]: [com.dfund.recom.algo.AlgoApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-12-03 15:35:24] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-12-03 15:35:24] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-12-03 15:35:25] -- [DEBUG]: [io.sentry.config.Lookup] -- Sentry configuration file not found in filesystem or classpath: 'sentry.properties'.
+[2020-12-03 15:35:25] -- [DEBUG]: [io.sentry.DefaultSentryClientFactory] -- Using an HTTPS connection to Sentry.
+[2020-12-03 15:35:25] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.HttpEventBuilderHelper@3380ca3d' to the list of builder helpers.
+[2020-12-03 15:35:25] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.ContextBuilderHelper@741741d0' to the list of builder helpers.
+[2020-12-03 15:35:25] -- [DEBUG]: [io.sentry.SentryClientFactory] -- Configuring uncaught exception handler.
+[2020-12-03 15:43:09] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Gracefully shutting down Sentry async threads.
+[2020-12-03 15:43:09] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Shutdown finished.
+[2020-12-03 15:43:13] -- [DEBUG]: [com.dfund.recom.algo.AlgoApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-12-03 15:43:14] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-12-03 15:43:14] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-12-03 15:43:15] -- [DEBUG]: [io.sentry.config.Lookup] -- Sentry configuration file not found in filesystem or classpath: 'sentry.properties'.
+[2020-12-03 15:43:15] -- [DEBUG]: [io.sentry.DefaultSentryClientFactory] -- Using an HTTPS connection to Sentry.
+[2020-12-03 15:43:15] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.HttpEventBuilderHelper@6e243175' to the list of builder helpers.
+[2020-12-03 15:43:15] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.ContextBuilderHelper@629e8212' to the list of builder helpers.
+[2020-12-03 15:43:15] -- [DEBUG]: [io.sentry.SentryClientFactory] -- Configuring uncaught exception handler.
+[2020-12-03 15:47:09] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Gracefully shutting down Sentry async threads.
+[2020-12-03 15:47:09] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Shutdown finished.
+[2020-12-03 15:47:14] -- [DEBUG]: [com.dfund.recom.algo.AlgoApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-12-03 15:47:15] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-12-03 15:47:15] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-12-03 15:47:16] -- [DEBUG]: [io.sentry.config.Lookup] -- Sentry configuration file not found in filesystem or classpath: 'sentry.properties'.
+[2020-12-03 15:47:16] -- [DEBUG]: [io.sentry.DefaultSentryClientFactory] -- Using an HTTPS connection to Sentry.
+[2020-12-03 15:47:16] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.HttpEventBuilderHelper@626d2016' to the list of builder helpers.
+[2020-12-03 15:47:16] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.ContextBuilderHelper@193bb809' to the list of builder helpers.
+[2020-12-03 15:47:16] -- [DEBUG]: [io.sentry.SentryClientFactory] -- Configuring uncaught exception handler.
+[2020-12-03 15:55:38] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Gracefully shutting down Sentry async threads.
+[2020-12-03 15:55:38] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Shutdown finished.
+[2020-12-03 15:55:42] -- [DEBUG]: [com.dfund.recom.algo.AlgoApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-12-03 15:55:43] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-12-03 15:55:43] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-12-03 15:55:47] -- [DEBUG]: [com.dfund.recom.algo.AlgoApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-12-03 15:55:49] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-12-03 15:55:49] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-12-03 15:55:49] -- [DEBUG]: [io.sentry.config.Lookup] -- Sentry configuration file not found in filesystem or classpath: 'sentry.properties'.
+[2020-12-03 15:55:49] -- [DEBUG]: [io.sentry.DefaultSentryClientFactory] -- Using an HTTPS connection to Sentry.
+[2020-12-03 15:55:49] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.HttpEventBuilderHelper@5f0a2638' to the list of builder helpers.
+[2020-12-03 15:55:49] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.ContextBuilderHelper@2c26ba07' to the list of builder helpers.
+[2020-12-03 15:55:49] -- [DEBUG]: [io.sentry.SentryClientFactory] -- Configuring uncaught exception handler.
+[2020-12-03 15:58:37] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Gracefully shutting down Sentry async threads.
+[2020-12-03 15:58:37] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Shutdown finished.
+[2020-12-03 15:58:41] -- [DEBUG]: [com.dfund.recom.algo.AlgoApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-12-03 15:58:42] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-12-03 15:58:42] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-12-03 15:58:43] -- [DEBUG]: [io.sentry.config.Lookup] -- Sentry configuration file not found in filesystem or classpath: 'sentry.properties'.
+[2020-12-03 15:58:43] -- [DEBUG]: [io.sentry.DefaultSentryClientFactory] -- Using an HTTPS connection to Sentry.
+[2020-12-03 15:58:43] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.HttpEventBuilderHelper@13d019a4' to the list of builder helpers.
+[2020-12-03 15:58:43] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.ContextBuilderHelper@19da993b' to the list of builder helpers.
+[2020-12-03 15:58:43] -- [DEBUG]: [io.sentry.SentryClientFactory] -- Configuring uncaught exception handler.
+[2020-12-03 16:01:40] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Gracefully shutting down Sentry async threads.
+[2020-12-03 16:01:40] -- [DEBUG]: [io.sentry.connection.AsyncConnection] -- Shutdown finished.
+[2020-12-03 16:01:44] -- [DEBUG]: [com.dfund.recom.algo.AlgoApplication] -- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-12-03 16:01:45] -- [DEBUG]: [com.zaxxer.hikari.HikariConfig] -- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2020-12-03 16:01:45] -- [DEBUG]: [org.apache.ibatis.logging.LogFactory] -- Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2020-12-03 16:01:45] -- [DEBUG]: [io.sentry.config.Lookup] -- Sentry configuration file not found in filesystem or classpath: 'sentry.properties'.
+[2020-12-03 16:01:45] -- [DEBUG]: [io.sentry.DefaultSentryClientFactory] -- Using an HTTPS connection to Sentry.
+[2020-12-03 16:01:45] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.HttpEventBuilderHelper@45843650' to the list of builder helpers.
+[2020-12-03 16:01:45] -- [DEBUG]: [io.sentry.SentryClient] -- Adding 'io.sentry.event.helper.ContextBuilderHelper@15a3b42' to the list of builder helpers.
+[2020-12-03 16:01:45] -- [DEBUG]: [io.sentry.SentryClientFactory] -- Configuring uncaught exception handler.

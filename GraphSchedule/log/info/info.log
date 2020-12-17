@@ -1,0 +1,76 @@
+[2020-12-16 11:34:34] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 4536 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-16 11:34:34] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-16 11:34:35] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-16 11:34:35] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-16 11:34:35] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-16 11:34:35] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-16 11:34:36] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-16 11:34:36] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 3.285 seconds (JVM running for 4.745)
+[2020-12-16 13:26:45] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-16 13:26:45] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-16 13:26:45] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}192.168.1.150root
+[2020-12-16 13:26:45] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-16 13:27:16] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Starting AlgoApplication on localhost with PID 4957 (/Users/seldom/Desktop/GraphProject/GraphSchedule/recom-algo/target/classes started by seldom in /Users/seldom/Desktop/GraphProject/GraphSchedule)
+[2020-12-16 13:27:16] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- The following profiles are active: dev
+[2020-12-16 13:27:17] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Initializing ProtocolHandler ["http-nio-8090"]
+[2020-12-16 13:27:17] -- [INFO ]: [org.apache.catalina.core.StandardService] -- Starting service [Tomcat]
+[2020-12-16 13:27:17] -- [INFO ]: [org.apache.catalina.core.StandardEngine] -- Starting Servlet engine: [Apache Tomcat/9.0.31]
+[2020-12-16 13:27:17] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring embedded WebApplicationContext
+[2020-12-16 13:27:18] -- [INFO ]: [org.apache.coyote.http11.Http11NioProtocol] -- Starting ProtocolHandler ["http-nio-8090"]
+[2020-12-16 13:27:18] -- [INFO ]: [com.dfund.recom.algo.AlgoApplication] -- Started AlgoApplication in 2.203 seconds (JVM running for 2.825)
+[2020-12-16 13:27:31] -- [INFO ]: [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] -- Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-12-16 13:27:31] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-16 13:27:31] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-16 13:27:31] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-16 13:27:32] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-16 13:27:49] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-16 13:27:49] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-16 13:27:50] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   Dockerfile
+[2020-12-16 13:27:50] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-16 13:27:50] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-16 13:27:50] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-16 13:27:50] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-16 13:27:50] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-16 13:27:51] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-16 13:27:51] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-16 13:27:52] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   hello.py
+[2020-12-16 13:27:52] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-16 13:27:52] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-16 13:27:52] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-16 13:27:52] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-16 13:27:52] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-16 13:27:53] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-16 13:27:53] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-16 13:27:54] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   model.pkl
+[2020-12-16 13:27:54] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-16 13:27:54] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-16 13:29:07] -- [INFO ]: [com.dfund.recom.algo.service.AlgoService] -- =====build=====
+[2020-12-16 13:29:14] -- [INFO ]: [com.dfund.recom.algo.service.AlgoService] -- =====push=====
+[2020-12-16 13:33:59] -- [INFO ]: [com.dfund.recom.algo.web.AlgoController] -- upload - file~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2020-12-16 13:33:59] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-16 13:33:59] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-16 13:34:00] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-16 13:34:01] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-16 13:34:01] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-16 13:34:01] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- directory is not exist
+[2020-12-16 13:34:01] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   Dockerfile
+[2020-12-16 13:34:01] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-16 13:34:01] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-16 13:34:01] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-16 13:34:01] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-16 13:34:02] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-16 13:34:03] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-16 13:34:03] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-16 13:34:03] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   hello.py
+[2020-12-16 13:34:03] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-16 13:34:03] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-16 13:34:03] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp connect by host:{} username:{}112.84.178.2root
+[2020-12-16 13:34:03] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is build
+[2020-12-16 13:34:04] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- Session is connected
+[2020-12-16 13:34:05] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- channel is connected
+[2020-12-16 13:34:05] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp server host:[112.84.178.2] port:[6101] is connect successfull
+[2020-12-16 13:34:05] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- file:{} is upload successful   model.pkl
+[2020-12-16 13:34:05] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sftp is closed already
+[2020-12-16 13:34:05] -- [INFO ]: [com.dfund.recom.algo.utils.SFTPUtils] -- sshSession is closed already
+[2020-12-16 13:34:27] -- [INFO ]: [com.dfund.recom.algo.service.AlgoService] -- =====build=====
+[2020-12-16 13:34:29] -- [INFO ]: [com.dfund.recom.algo.service.AlgoService] -- =====push=====
